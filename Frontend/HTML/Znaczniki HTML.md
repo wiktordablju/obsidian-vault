@@ -12,7 +12,7 @@
 **3. Tekst**
 	[[Semantyka]]
 - `<em>`: Podkreślenie tekstu (semantyczne).
-- - `<strong>`: Wyróżnienie tekstu (semantyczne).
+- `<strong>`: Wyróżnienie tekstu (semantyczne).
 - `<b>`: Pogrubienie tekstu (czysto wizualne).
 - `<i>`: Pochylenie tekstu (czysto wizualne).
 - `<u>`: Podkreślenie tekstu (czysto wizualne).
