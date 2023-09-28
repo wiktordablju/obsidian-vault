@@ -27,4 +27,4 @@
 - `overflow`: Określa, co dzieje się z treścią, która wychodzi poza granice elementu (np. `hidden`, `scroll`).
     
 - `display`: Określa sposób wyświetlania elementu (np. `block`, `inline`, `flex`, `grid`).
-- position, float: Określa położenie bloku
+- position, float: Określa położenie bloku (nigdy kurwa nie używać floata, oprócz egzaminu XD)
