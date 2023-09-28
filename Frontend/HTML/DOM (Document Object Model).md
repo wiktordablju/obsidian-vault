@@ -10,7 +10,7 @@
 
 **3. Interakcja**
 
-- Za pomocą języków programowania, takich jak JavaScript, można manipulować DOMem: dodawać, modyfikować lub usuwać elementy i atrybuty.
+- Za pomocą np. JSa, można manipulować DOMem: dodawać, modyfikować lub usuwać elementy i atrybuty.
 
 **4. Zdarzenia**
 
