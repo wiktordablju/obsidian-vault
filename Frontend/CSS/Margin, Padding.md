@@ -4,12 +4,7 @@
 - **Margines (`margin`)**: Zewnętrzny odstęp wokół elementu, oddzielający go od innych elementów.
 - **Padding (`padding`)**: Wewnętrzny odstęp wewnątrz elementu, oddzielający zawartość od jego granic.
 
-**2. Kluczowe Właściwości**
-
-- `margin-top`, `margin-right`, `margin-bottom`, `margin-left`: Określają marginesy dla poszczególnych stron elementu.
-- `padding-top`, `padding-right`, `padding-bottom`, `padding-left`: Określają paddingi dla poszczególnych stron elementu.
-
-**3. Skrócone Właściwości**
+**2. Skrócone Właściwości**
 
 - `margin`: Można ustawić wszystkie marginesy jednocześnie. Na przykład:
     
@@ -19,12 +14,12 @@
 - `padding`: Działa podobnie do `margin`, ale dotyczy wewnętrznych odstępów.
     
 
-**4. Automatyczne Marginesy**
+**3. Automatyczne Marginesy**
 
 - Używając wartości `auto` dla marginesu, można centrować blokowe elementy w poziomie. Na przykład: `margin: 0 auto;`.
 
-**5. Uwagi**
+**4. Uwagi**
 
-- Marginesy mogą się "złączyć" lub "zepchnąć" (ang. "collapse"), co oznacza, że jeśli dwa pionowe marginesy stykają się ze sobą, używany jest większy margines, a mniejszy jest ignorowany.
+- Marginesy mogą się collapsnąć, jeśli dwa pionowe marginesy stykają się ze sobą, używany jest większy margines, a mniejszy jest ignorowany.
 - Paddingi nie mają tego zachowania i zawsze dodają dodatkową przestrzeń do elementu.
 - Właściwość `box-sizing` może wpłynąć na to, jak paddingi wpływają na całkowite wymiary elementu.
