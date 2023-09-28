@@ -25,8 +25,3 @@
 **4. Skróty CSS**
 
 - Emmet pozwala również na szybsze pisanie CSS. Np. `m10` zamienia się na `margin: 10px;`.
-
-**5. Personalizacja i Rozszerzenia**
-
-- Emmet jest dostępny jako rozszerzenie dla wielu popularnych edytorów kodu, takich jak Visual Studio Code, Sublime Text czy Atom.
-- Można dostosować i rozszerzyć skróty Emmet według własnych potrzeb.
