@@ -13,8 +13,3 @@ django
 flask
 tornado
 
-
-PHP
-JS egzaminy
-C++
-JAVA

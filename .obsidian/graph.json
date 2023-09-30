@@ -5,20 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Frontend/HTML",
       "color": {
         "a": 1,
-        "rgb": 15299365
+        "rgb": 15819816
       }
     },
     {
       "query": "path:Frontend/CSS",
       "color": {
         "a": 1,
-        "rgb": 5274103
+        "rgb": 2712816
       }
     },
     {
@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 12470751
       }
+    },
+    {
+      "query": "path:\"Ogolny Webdev\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6173655
+      }
+    },
+    {
+      "query": "path:Frontend/JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 16178718
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.0000000000000018,
   "close": false
 }

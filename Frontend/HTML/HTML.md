@@ -11,9 +11,7 @@ HTML to standardowy język znaczników używany do tworzenia i prezentowania str
 [[Metatagi]]
 [[Audio, video, obrazki]]
 [[Tabele]]
-
-#todo:
-RWD
+[[Responsive Web Design]]
 
 
 

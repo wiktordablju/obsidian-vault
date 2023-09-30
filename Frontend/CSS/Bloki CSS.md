@@ -2,15 +2,7 @@
     
 - `height`: Wysokość elementu.
     
-- `background-color`: Kolor tła elementu.
-    
-- `background-image`: Obraz tła dla elementu.
-    
-- `background-repeat`: Określa, czy (i jak) obraz tła powinien się powtarzać.
-    
-- `background-position`: Pozycja obrazu tła w elemencie.
-    
-- `background-size`: Rozmiar obrazu tła.
+- `background`: [[Background]]
     
 - `border`: Ramka wokół elementu. Może mieć różne style, kolory i szerokości.
     
@@ -26,5 +18,5 @@
     
 - `overflow`: Określa, co dzieje się z treścią, która wychodzi poza granice elementu (np. `hidden`, `scroll`).
     
-- `display`: Określa sposób wyświetlania elementu (np. `block`, `inline`, `flex`, `grid`).
-- position, float: Określa położenie bloku (nigdy kurwa nie używać floata, oprócz egzaminu XD)
+- `display`: Określa sposób wyświetlania elementu (np. `block`, `inline`, `flex`, `grid`). [[Flexbox]]
+- position, float: Określa położenie bloku (nigdy kurwa nie używać floata, oprócz egzaminu XD) [[Float, Position]]

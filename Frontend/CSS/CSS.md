@@ -5,33 +5,26 @@ CSS to język arkuszy stylów używany do opisu wyglądu i formatowania dokument
 [[Bloki CSS]]
 [[Tekst CSS]]
 [[Margin, Padding]]
-[[Box-Sizing]]
+[[Box-Sizing, Box-Model]]
 [[Emmet]]
+[[Flexbox]]
+[[Float, Position]]
+[[Kaskadowość, dziedziczenie, kombinatory]]
+[[Transition, Transform]]
+[[Jednostki]]
+[[Pseudoklasy, Pseudoelementy, Atrybuty]]
+[[Background]]
 
 #todo:
-Flexbox
 Grid
-Position 
-Float
+
 Font Awesome
-Jednostki
-Kaskadowość
-dziedziczenie
-kombinatory
-box model
-display
-position
-transition
-transform
-float
-background
-sass
-pseudoklasy
-pseudoelementy
-atrybuty
+
 JS!!!
+
 Bootstrap
 BEM
+sass
 
 
 Zasoby:

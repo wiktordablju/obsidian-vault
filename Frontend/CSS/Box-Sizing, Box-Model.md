@@ -1,8 +1,7 @@
-**1. Definicja**
+- Właściwość `box-sizing` określa, jak przeglądarka powinna obliczać całkowite wymiary elementu w odniesieniu do paddingów, ramek i zawartości, czyli bezpośrednio zmienia działanie box-modelu.
 
-- Właściwość `box-sizing` określa, jak przeglądarka powinna obliczać całkowite wymiary elementu w odniesieniu do paddingów, ramek i zawartości.
 
-**2. Kluczowe Wartości**
+**Kluczowe Wartości**:
 
 - `content-box`: Domyślna wartość. Wymiary `width` i `height` odnoszą się tylko do zawartości elementu, nie uwzględniając paddingów ani ramek. Całkowity rozmiar elementu to `width`/`height` + `padding` + `border`.
     
