@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Frontend/HTML",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:\"Ogolny Webdev\"  ",
+      "query": "path:Ogolny  ",
       "color": {
         "a": 1,
         "rgb": 6173655
@@ -83,18 +83,25 @@
         "a": 1,
         "rgb": 16178718
       }
+    },
+    {
+      "query": "path:Backend/Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 15540517
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.58020833333333,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.40625,
+  "repelStrength": 8.75,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000018,
-  "close": false
+  "linkDistance": 255,
+  "scale": 0.7132754626224441,
+  "close": true
 }

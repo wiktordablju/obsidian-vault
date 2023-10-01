@@ -23,6 +23,18 @@
             "id": "d16ca1c67d0111dd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aceb41193097c4f3",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "background",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d16ca1c67d0111dd",
+  "active": "2756d09406163ece",
   "lastOpenFiles": [
+    "Backend/Java/Modyfikatory dostępu.md",
+    "Backend/Java/Java.md",
+    "Ogolny/git.md",
     "Frontend/JavaScript/JavaScript.md",
     "Frontend/CSS/CSS.md",
     "Frontend/JavaScript",
@@ -189,12 +204,10 @@
     "README.md",
     "Frontend/CSS/Tekst CSS.md",
     "Frontend/HTML/HTML.md",
-    "Ogolny Webdev/todo.md",
-    "Ogolny Webdev/Web Development.md",
-    "Ogolny Webdev/Przeglądarki Internetowe.md",
-    "Ogolny Webdev/git.md",
+    "Ogolny/todo.md",
+    "Ogolny/Ogolny.md",
+    "Ogolny/Przeglądarki Internetowe.md",
     "Backend/Python/Python.md",
-    "Backend/Java/Java.md",
     "Backend/Java",
     "Frontend/CSS/Margin, Padding.md",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
@@ -207,7 +220,6 @@
     "Szkola/Język Angielski",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski",
-    "Szkola",
-    "Frontend/HTML/Elementy blokowe i liniowe.md"
+    "Szkola"
   ]
 }
