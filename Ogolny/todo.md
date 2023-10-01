@@ -1,4 +1,3 @@
 todo:
 Hosting
 Domena
-UXUI

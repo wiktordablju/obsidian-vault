@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "17ffcd340286f7da",
+        "id": "d006e819e5638439",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a0f903d5f4f970",
+            "id": "1d3398c4e26c8930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/CSS/CSS.md",
+                "file": "Ogolny/User Experience User Interface.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5816b473e767b73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/CSS/BEM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf724d991b09407",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "em rem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ogolny/User Experience User Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ogolny/User Experience User Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ogolny/User Experience User Interface.md"
+              }
             }
           },
           {
@@ -171,12 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf724d991b09407",
+  "active": "1d3398c4e26c8930",
   "lastOpenFiles": [
+    "Frontend/CSS/Jednostki.md",
+    "Ogolny/User Experience User Interface.md",
+    "Frontend/CSS/CSS.md",
+    "Ogolny/todo.md",
     "Frontend/CSS/BEM.md",
+    "Ogolny/git.md",
     "Frontend/CSS/Background.md",
     "Frontend/CSS/SASS.md",
-    "Frontend/CSS/CSS.md",
     "Frontend/CSS/Podstawy Bootstrap.md",
     "Frontend/CSS/Bootstrap.md",
     "Frontend/JavaScript/JavaScript.md",
@@ -186,20 +173,16 @@
     "Frontend/HTML/HTML.md",
     "Backend/Java/Java.md",
     "Backend/Java/Modyfikatory dostępu.md",
-    "Ogolny/git.md",
     "Frontend/JavaScript",
     "Frontend/CSS/Bloki CSS.md",
     "Frontend/CSS/Pseudoklasy, Pseudoelementy, Atrybuty.md",
     "Frontend/CSS/Transition, Transform.md",
     "Frontend/CSS/Kaskadowość, dziedziczenie, kombinatory.md",
     "Frontend/CSS/Box-Sizing, Box-Model.md",
-    "Frontend/CSS/Jednostki.md",
     "Frontend/HTML/Responsive Web Design.md",
     "Frontend/CSS/Float, Position.md",
     "Frontend/CSS/Flexbox.md",
     "README.md",
-    "Frontend/CSS/Tekst CSS.md",
-    "Ogolny/todo.md",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
