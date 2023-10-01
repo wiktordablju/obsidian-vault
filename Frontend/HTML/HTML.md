@@ -1,7 +1,7 @@
 
 ### HyperText Markup Language
 
-HTML to standardowy język znaczników używany do tworzenia i prezentowania stron internetowych w przeglądarkach. Umożliwia strukturyzację treści na stronie, takich jak tekst, obrazy, linki, formularze i inne elementy. Strony HTML składają się z elementów, które są reprezentowane przez tzw. "tagi".
+HTML to standardowy język znaczników używany do tworzenia i prezentowania stron internetowych w przeglądarkach razem z [[CSS]] oraz [[JavaScript]]. Umożliwia strukturyzację treści na stronie, takich jak tekst, obrazy, linki, formularze i inne elementy. Strony HTML składają się z elementów, które są reprezentowane przez tzw. "tagi".
 
 [[Znaczniki HTML]]
 [[Semantyka]]

@@ -5,7 +5,7 @@ Wersje SASSa:
 - **SASS** (starsza wersja z wcięciami, bez nawiasów klamrowych i średników)
 - **SCSS** (nowsza wersja, bardziej zbliżona do CSS, z nawiasami klamrowymi i średnikami).
 
-Używa się tylko SCSS obecnie
+Obecnie używa się tylko SASS w połączeniu z konwencją nazywania stylów [[BEM]]
 
 ## 2. Kompilacja
 

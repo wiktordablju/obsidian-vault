@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce1609cba6156fd1",
+            "id": "d4a0f903d5f4f970",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,27 @@
             }
           },
           {
-            "id": "d4a0f903d5f4f970",
+            "id": "5816b473e767b73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/CSS/CSS.md",
+                "file": "Frontend/CSS/BEM.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cf724d991b09407",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frontend/CSS/CSS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,16 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4a0f903d5f4f970",
+  "active": "9cf724d991b09407",
   "lastOpenFiles": [
+    "Frontend/CSS/BEM.md",
+    "Frontend/CSS/Background.md",
     "Frontend/CSS/SASS.md",
     "Frontend/CSS/CSS.md",
+    "Frontend/CSS/Podstawy Bootstrap.md",
+    "Frontend/CSS/Bootstrap.md",
+    "Frontend/JavaScript/JavaScript.md",
+    "Frontend/JavaScript/Pobieranie elementów.md",
+    "Frontend/JavaScript/Podstawy JS.md",
+    "Frontend/CSS/Font Awesome.md",
+    "Frontend/HTML/HTML.md",
     "Backend/Java/Java.md",
     "Backend/Java/Modyfikatory dostępu.md",
     "Ogolny/git.md",
-    "Frontend/JavaScript/JavaScript.md",
     "Frontend/JavaScript",
-    "Frontend/CSS/Background.md",
     "Frontend/CSS/Bloki CSS.md",
     "Frontend/CSS/Pseudoklasy, Pseudoelementy, Atrybuty.md",
     "Frontend/CSS/Transition, Transform.md",
@@ -188,15 +199,8 @@
     "Frontend/CSS/Flexbox.md",
     "README.md",
     "Frontend/CSS/Tekst CSS.md",
-    "Frontend/HTML/HTML.md",
     "Ogolny/todo.md",
-    "Ogolny/Ogolny.md",
-    "Ogolny/Przeglądarki Internetowe.md",
-    "Backend/Python/Python.md",
     "Backend/Java",
-    "Frontend/CSS/Margin, Padding.md",
-    "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
-    "2023-09-28.md",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
     "Szkola/Historia",

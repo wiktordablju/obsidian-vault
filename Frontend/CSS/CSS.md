@@ -1,6 +1,6 @@
 ### Cascading Style SHeets
 
-CSS to język arkuszy stylów używany do opisu wyglądu i formatowania dokumentu napisanego w języku znaczników, takim jak HTML. Umożliwia twórcom stron kontrolowanie nad wyglądem elementów na stronie, takich jak kolor, rozmiar czcionki, marginesy, paddingi i wiele innych aspektów prezentacji.
+CSS to język arkuszy stylów używany do opisu wyglądu i formatowania dokumentu napisanego w [[HTML]]. Umożliwia twórcom stron kontrolowanie nad wyglądem elementów na stronie, takich jak kolor, rozmiar czcionki, marginesy, paddingi i wiele innych aspektów prezentacji.
 
 [[Bloki CSS]]
 [[Tekst CSS]]
@@ -15,18 +15,11 @@ CSS to język arkuszy stylów używany do opisu wyglądu i formatowania dokument
 [[Pseudoklasy, Pseudoelementy, Atrybuty]]
 [[Background]]
 [[SASS]]
+[[Font Awesome]]
+[[Bootstrap]]
 
 #todo:
 Grid
-
-Font Awesome
-
-JS!!!
-
-Bootstrap
-BEM
-
-
 
 Zasoby:
 https://getbootstrap.com/ - Bootstrap
