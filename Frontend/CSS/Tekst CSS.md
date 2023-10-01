@@ -27,6 +27,9 @@
 - **`white-space`**: Określa, jak przeglądarka powinna obsługiwać białe znaki w tekście (np. `nowrap`, `pre`, `pre-wrap`).
 - **`text-overflow`**: Określa, co dzieje się z tekstem, który nie mieści się w elemencie (np. `ellipsis` dla trzech kropek).
 
-**5. Cienie Tekstu**
-
-- **`text-shadow`**: Dodaje cień do tekstu. Można określić kolor, przesunięcie i rozmycie cienia.
+**5. Czcionki lokalnie na serwerze**
+1. Sciągasz czcionke na kompa
+2. Konwertujesz font z .ttf na .woff2 i zaznaczasz tylko polish (max latin-extended) https://www.fontsquirrel.com/
+3. Dajesz .woffy do folderu na serwerze
+4. Wklejasz stylesheet.css do twojego cssa
+5. Dodajesz do każdego font-face'a font-display: swap
