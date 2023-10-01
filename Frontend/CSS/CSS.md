@@ -14,6 +14,7 @@ CSS to język arkuszy stylów używany do opisu wyglądu i formatowania dokument
 [[Jednostki]]
 [[Pseudoklasy, Pseudoelementy, Atrybuty]]
 [[Background]]
+[[SASS]]
 
 #todo:
 Grid
@@ -24,7 +25,7 @@ JS!!!
 
 Bootstrap
 BEM
-sass
+
 
 
 Zasoby:

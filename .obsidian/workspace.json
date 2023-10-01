@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b529e6a57246e1b7",
+        "id": "17ffcd340286f7da",
         "type": "tabs",
         "children": [
           {
-            "id": "d56ddd118bb01cdf",
+            "id": "ce1609cba6156fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,39 +20,19 @@
             }
           },
           {
-            "id": "d16ca1c67d0111dd",
+            "id": "d4a0f903d5f4f970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Java/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aceb41193097c4f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1e36b56d4f95289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/CSS/Background.md",
+                "file": "Frontend/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/CSS/CSS.md"
+              }
             }
           },
           {
@@ -183,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2756d09406163ece",
+  "active": "d4a0f903d5f4f970",
   "lastOpenFiles": [
-    "Backend/Java/Modyfikatory dostępu.md",
+    "Frontend/CSS/SASS.md",
+    "Frontend/CSS/CSS.md",
     "Backend/Java/Java.md",
+    "Backend/Java/Modyfikatory dostępu.md",
     "Ogolny/git.md",
     "Frontend/JavaScript/JavaScript.md",
-    "Frontend/CSS/CSS.md",
     "Frontend/JavaScript",
     "Frontend/CSS/Background.md",
     "Frontend/CSS/Bloki CSS.md",
@@ -218,7 +203,6 @@
     "Szkola/Matematyka",
     "Szkola/Wiedza o Społeczeństwie",
     "Szkola/Język Angielski",
-    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski",
     "Szkola"
   ]
