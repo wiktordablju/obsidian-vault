@@ -12,4 +12,6 @@ matplotlib
 django
 flask
 tornado
+Typecasting
 
+Datastructures and algortithms(arrays and linek lists, heaps stacks and queues, hash tables, binary search trees, recursion, sorting agorithms)

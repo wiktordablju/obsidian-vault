@@ -13,6 +13,12 @@ HTML to standardowy język znaczników używany do tworzenia i prezentowania str
 [[Tabele]]
 [[Responsive Web Design]]
 
+#todo 
+Accessibility
+SEO Basic
+Gitlab
+GitHub
+Bitbucket
 
 
 

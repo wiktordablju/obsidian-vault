@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be2c287edfc2dc31",
+        "id": "0aaf147f23fa8421",
         "type": "tabs",
         "children": [
           {
-            "id": "2e05814856eb64ba",
+            "id": "f7ccfca79b8bf6d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Matematyka/Stereometria.md",
+                "file": "Backend/Python/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Matematyka/Stereometria.md",
+                "file": "Backend/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Matematyka/Stereometria.md",
+                "file": "Backend/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Matematyka/Stereometria.md"
+                "file": "Backend/Python/Python.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e05814856eb64ba",
+  "active": "f7ccfca79b8bf6d7",
   "lastOpenFiles": [
-    "Szkola/Matematyka/Matematyka.md",
+    "Frontend/HTML/HTML.md",
     "Szkola/Matematyka/Stereometria.md",
+    "Szkola/Matematyka/Matematyka.md",
     "Ogolny/Ogolny.md",
     "Ogolny/todo.md",
     "Ogolny/git.md",
@@ -174,7 +175,6 @@
     "Frontend/JavaScript/Pobieranie elementów.md",
     "Frontend/JavaScript/Podstawy JS.md",
     "Frontend/CSS/Font Awesome.md",
-    "Frontend/HTML/HTML.md",
     "Backend/Java/Java.md",
     "Backend/Java/Modyfikatory dostępu.md",
     "Frontend/JavaScript",
