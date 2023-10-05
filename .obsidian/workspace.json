@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57b2c53980fa5152",
+        "id": "be2c287edfc2dc31",
         "type": "tabs",
         "children": [
           {
-            "id": "f479ecdaf1e00b9d",
+            "id": "2e05814856eb64ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/CSS/Tekst CSS.md",
+                "file": "Szkola/Matematyka/Stereometria.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/CSS/Tekst CSS.md",
+                "file": "Szkola/Matematyka/Stereometria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/CSS/Tekst CSS.md",
+                "file": "Szkola/Matematyka/Stereometria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/CSS/Tekst CSS.md"
+                "file": "Szkola/Matematyka/Stereometria.md"
               }
             }
           },
@@ -155,14 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f479ecdaf1e00b9d",
+  "active": "2e05814856eb64ba",
   "lastOpenFiles": [
+    "Szkola/Matematyka/Matematyka.md",
+    "Szkola/Matematyka/Stereometria.md",
+    "Ogolny/Ogolny.md",
+    "Ogolny/todo.md",
+    "Ogolny/git.md",
+    "Frontend/CSS/Tekst CSS.md",
     "Ogolny/User Experience User Interface.md",
     "Frontend/CSS/Jednostki.md",
     "Frontend/CSS/CSS.md",
-    "Ogolny/todo.md",
     "Frontend/CSS/BEM.md",
-    "Ogolny/git.md",
     "Frontend/CSS/Background.md",
     "Frontend/CSS/SASS.md",
     "Frontend/CSS/Podstawy Bootstrap.md",
@@ -180,10 +183,6 @@
     "Frontend/CSS/Transition, Transform.md",
     "Frontend/CSS/Kaskadowość, dziedziczenie, kombinatory.md",
     "Frontend/CSS/Box-Sizing, Box-Model.md",
-    "Frontend/HTML/Responsive Web Design.md",
-    "Frontend/CSS/Float, Position.md",
-    "Frontend/CSS/Flexbox.md",
-    "README.md",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",

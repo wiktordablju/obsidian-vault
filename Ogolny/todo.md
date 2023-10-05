@@ -1,3 +1,0 @@
-todo:
-Hosting
-Domena
