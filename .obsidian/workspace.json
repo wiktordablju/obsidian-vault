@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0aaf147f23fa8421",
+        "id": "b7ec8b3297d5c448",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ccfca79b8bf6d7",
+            "id": "03f3901fa1b137ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Python/Python.md",
+                "file": "Szkola/Jezyk Polski/Rozprawki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Python/Python.md",
+                "file": "Szkola/Jezyk Polski/Rozprawki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Python/Python.md",
+                "file": "Szkola/Jezyk Polski/Rozprawki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Python/Python.md"
+                "file": "Szkola/Jezyk Polski/Rozprawki.md"
               }
             }
           },
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ccfca79b8bf6d7",
+  "active": "03f3901fa1b137ce",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Język Polski.md",
+    "Backend/Python/Python.md",
+    "Szkola/Jezyk Polski/Rozprawki.md",
     "Frontend/HTML/HTML.md",
     "Szkola/Matematyka/Stereometria.md",
     "Szkola/Matematyka/Matematyka.md",
@@ -180,9 +183,6 @@
     "Frontend/JavaScript",
     "Frontend/CSS/Bloki CSS.md",
     "Frontend/CSS/Pseudoklasy, Pseudoelementy, Atrybuty.md",
-    "Frontend/CSS/Transition, Transform.md",
-    "Frontend/CSS/Kaskadowość, dziedziczenie, kombinatory.md",
-    "Frontend/CSS/Box-Sizing, Box-Model.md",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
