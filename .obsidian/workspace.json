@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb190715c9792f4",
+        "id": "fb6b7c01821c3139",
         "type": "tabs",
         "children": [
           {
-            "id": "71c96e525790d9dd",
+            "id": "32893be573be891e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prawo.md",
+                "file": "Szkola/Jezyk Polski/Antyk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prawo.md",
+                "file": "Szkola/Jezyk Polski/Antyk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prawo.md",
+                "file": "Szkola/Jezyk Polski/Antyk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prawo.md"
+                "file": "Szkola/Jezyk Polski/Antyk.md"
               }
             }
           },
@@ -154,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71c96e525790d9dd",
+  "active": "32893be573be891e",
   "lastOpenFiles": [
+    "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Antyk.md",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
@@ -190,7 +190,6 @@
     "Szkola/Historia",
     "Szkola/Matematyka",
     "Szkola/Wiedza o Społeczeństwie",
-    "Szkola/Język Angielski",
-    "Szkola/Jezyk Polski"
+    "Szkola/Język Angielski"
   ]
 }

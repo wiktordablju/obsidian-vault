@@ -41,9 +41,7 @@
 	Mit - symboliczna opowiesc o boskich stworzeniach i sytuacjach majace wyjasnic lub ukazac jakies wartosci ludziom
 	mitologia - zbior mitow z danego regionu, analiza ich i laczenie w calosc, np mitologia rzymska czy grecka
 	styliazacja mitologiczna - odwolywanie sie do mitologizmow i mitow
-	rodzaje i funkcje mitów
-	psalm 
-	tematyka psalmów: 100 i 130.
+	rodzaje i funkcje mitów - heroiczne i teogoniczne. funckja mitow to pokazanie wartosci swiata  w latwiejszych dla ogarniecia historiach.
 
 **Biblia:** 
 	**Ksiega Rodzaju** - Adam i Ewa, potop, wieza babel, kain i abel. Abraham jakub izaak. Stworzenie swiata, grzech pierworodny, bunt, wiara, posluszenstwo, przymierze. Ukazanie milosci i sprawiedliwosci boga oraz geneza narodu izraelskiego.
@@ -56,6 +54,8 @@
 	**Stylistyka** - ogromna ilosc symboliki oraz opisy
 	**Podzial** - stary testament oraz nowy testament (4 ewangelie oraz apokalipsa)
 	**Jezyki, przeklady** - stary testament- hebrajski, nowy - greka. Przeklady - Wulgata na Lacine, Luter na Niemiecki, King James - Angielski
+	psalm  - religijnu utwor poetycki, najczesciej w biblii jako moditwa.
+	tematyka psalmów: 100 i 130. - 100 chwala i radosc, 130 laska przebaczenie i oczekiwanie. 
 
 
 **Homer**, 
