@@ -1,0 +1,2 @@
+15.10 - Przez weekend Izrael dalej wstrzymuje dostawy pradu, wody do Strefy Gazy, blokuje konwoje z pomoca humanitarna oraz ciagle bombarduje miasto Gaza. Ostrzeliwuja rowniez lotniska w syrii. Jest to wazne poniewaz dalej ida w konflikt z wieloma krajami arabskimi co moze doprowadzic w bliskiej przyszlosci do kolejnej wojny miedzy swiatem arabskim a izraelem. kraje arabskie rzadaja od izraela zaprzestania bombardowania cywilow oraz pozwolenie na wjazd konwojom humanitarnym, izrael i netanjahu jednak ciagle mowia o tym ze zwalczaja tylko hamas.
+
