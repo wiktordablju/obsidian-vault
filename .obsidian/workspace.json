@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6b7c01821c3139",
+        "id": "410845f3dc7a065b",
         "type": "tabs",
         "children": [
           {
-            "id": "32893be573be891e",
+            "id": "2bf67d0d5824a616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Antyk.md",
+                "file": "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Antyk.md",
+                "file": "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Antyk.md",
+                "file": "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Antyk.md"
+                "file": "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md"
               }
             }
           },
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32893be573be891e",
+  "active": "2bf67d0d5824a616",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Antyk.md",
+    "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
-    "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
