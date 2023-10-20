@@ -1,13 +1,16 @@
+[[Zmienne i proste typy danych]]
+[[Dane wejściowe i while]]
+[[Dictionaries]]
+[[Funkcje]]
+[[Klasy]]
+[[Konstrukcja if]]
+[[Pliki i wyjątki]]
+[[Praca z listą]]
+[[Testowanie kodu]]
+[[Wprowadzenie do list]]
+
+
 todo:
-zmienne i proste typy zmiennych
-listy
-ify, warunki petle
-slowniki
-dane wejsciowe i while
-funkcje
-klasy
-pliki i wyjatki
-testowanie kodu
 matplotlib
 django
 flask
