@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Python/Wprowadzenie do list.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Python/Wprowadzenie do list.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Python/Wprowadzenie do list.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Python/Wprowadzenie do list.md"
+                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "14f2cd193c2a7c27",
   "lastOpenFiles": [
+    "Backend/Python/Wprowadzenie do list.md",
     "Backend/Python/Zmienne i proste typy danych.md",
     "Backend/Python/Python.md",
     "Backend/Python/Testowanie kodu.md",
@@ -166,7 +167,6 @@
     "Backend/Python/Dictionaries.md",
     "Backend/Python/Konstrukcja if.md",
     "Backend/Python/Praca z listą.md",
-    "Backend/Python/Wprowadzenie do list.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
