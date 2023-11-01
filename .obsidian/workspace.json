@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef625485c1897ef",
+        "id": "fb26ca1589752ada",
         "type": "tabs",
         "children": [
           {
-            "id": "14f2cd193c2a7c27",
+            "id": "c36a77dc143fed69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
+                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
+                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
+                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/Prasówki.md"
+                "file": "Szkola/Jezyk Polski/Średniowiecze.md"
               }
             }
           },
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14f2cd193c2a7c27",
+  "active": "c36a77dc143fed69",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Średniowiecze.md",
+    "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
+    "Szkola/Wiedza o Społeczeństwie/Prawo.md",
+    "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
     "Backend/Python/Wprowadzenie do list.md",
     "Backend/Python/Zmienne i proste typy danych.md",
     "Backend/Python/Python.md",
@@ -169,13 +173,10 @@
     "Backend/Python/Praca z listą.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Jezyk Polski/Antyk.md",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.md",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
-    "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
     "README.md",
     "Szkola/Szkola.md",
     "Szkola/Jezyk Polski/Rozprawki.md",
@@ -183,7 +184,6 @@
     "Szkola/Matematyka/Stereometria.md",
     "Szkola/Matematyka/Matematyka.md",
     "Ogolny/Ogolny.md",
-    "Ogolny/todo.md",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
