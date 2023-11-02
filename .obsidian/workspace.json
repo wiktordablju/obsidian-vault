@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb26ca1589752ada",
+        "id": "dae06fd5e77698e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c36a77dc143fed69",
+            "id": "10fb1127ce4ac901",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,9 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c36a77dc143fed69",
+  "active": "10fb1127ce4ac901",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Jezyk Polski/Średniowiecze.md",
+    "Szkola/Jezyk Polski/Rozprawki.md",
+    "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
@@ -171,15 +175,11 @@
     "Backend/Python/Dictionaries.md",
     "Backend/Python/Konstrukcja if.md",
     "Backend/Python/Praca z listą.md",
-    "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
-    "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
-    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
     "README.md",
     "Szkola/Szkola.md",
-    "Szkola/Jezyk Polski/Rozprawki.md",
     "Frontend/HTML/HTML.md",
     "Szkola/Matematyka/Stereometria.md",
     "Szkola/Matematyka/Matematyka.md",
