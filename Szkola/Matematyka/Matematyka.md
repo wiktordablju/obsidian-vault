@@ -1,1 +1,2 @@
 [[Stereometria]]
+[[Analiza Matematyczna]]

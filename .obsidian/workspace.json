@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dae06fd5e77698e1",
+        "id": "0cd62b10da776313",
         "type": "tabs",
         "children": [
           {
-            "id": "10fb1127ce4ac901",
+            "id": "066257cca5168d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
+                "file": "Szkola/Matematyka/Analiza Matematyczna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
+                "file": "Szkola/Matematyka/Analiza Matematyczna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Średniowiecze.md",
+                "file": "Szkola/Matematyka/Analiza Matematyczna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Średniowiecze.md"
+                "file": "Szkola/Matematyka/Analiza Matematyczna.md"
               }
             }
           },
@@ -154,11 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10fb1127ce4ac901",
+  "active": "066257cca5168d20",
   "lastOpenFiles": [
-    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
+    "Szkola/Matematyka/Matematyka.md",
+    "Szkola/Matematyka/Analiza Matematyczna.md",
+    "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
     "Szkola/Jezyk Polski/Średniowiecze.md",
+    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
@@ -181,9 +184,6 @@
     "README.md",
     "Szkola/Szkola.md",
     "Frontend/HTML/HTML.md",
-    "Szkola/Matematyka/Stereometria.md",
-    "Szkola/Matematyka/Matematyka.md",
-    "Ogolny/Ogolny.md",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
