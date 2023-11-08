@@ -8,9 +8,13 @@ Jeśli funkcja nie jest ciagla, to znaczy ma w sobie "dziure" to limes nie istni
 
 Granicą W(x) w punkcie x0 jest W(x0)
 
-Przykład obliczania - mamy podany limes i x dazacy do jakiejs liczby, podstawiamy do wzoru ta liczbe i ona to jest g
+Limes łatwy - podstawiasz x do wzoru
 
-jak masz limes z wielomianem to liczysz delte, x1 i x2 i potem zamieniasz wielomian na (x-x1)(x-x2) i potem podstawiasz x z limesa
+Limes wielomian
+1. liczysz delte
+2. liczysz x1 x2
+3. zamieniasz wielomian na mnozenie z xow
+4. podstawiasz x z limesa
 
 granica lewostronna(- przy limesie) i prawostronna z plusem
 lewo stronna to x mniejszy od 0 a prawostronna x>0
@@ -33,4 +37,4 @@ funkcja ciagla w przedziale dokmnietym osiaga wartosc najwieksza i najmniejsza
 
 jak liczyc wartosc najwieksza i najmniejsza to musisz obliczyc p = -(b/2a)
 
-### Pochodna funkcji w punkcie
+
