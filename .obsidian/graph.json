@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Frontend/HTML",
@@ -102,6 +102,6 @@
   "repelStrength": 15.3751391465677,
   "linkStrength": 1,
   "linkDistance": 333,
-  "scale": 0.3628873693012155,
+  "scale": 0.5087618855792643,
   "close": false
 }

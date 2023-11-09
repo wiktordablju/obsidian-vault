@@ -1,10 +1,11 @@
 
-#### lektury:
+### Lektury:
 [[Opowiadania Tadeusza Borowskiego]]
+[[Inny świat]]
 
-[[Rozprawki]]
+### [[Rozprawki]]
 
 
-#### Epoki
+### Epoki:
 [[Antyk]]
 [[Średniowiecze]]
