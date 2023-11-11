@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Inny świat.md",
-                "mode": "preview",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Inny świat.md",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Inny świat.md",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Inny świat.md"
+                "file": "Szkola/Jezyk Polski/Renesans.md"
               }
             }
           },
@@ -156,15 +156,17 @@
   },
   "active": "7d4ba0d5af77ea52",
   "lastOpenFiles": [
-    "Szkola/Jezyk Polski/Inny świat.pdf",
+    "Szkola/Jezyk Polski/Średniowiecze.md",
+    "Szkola/Jezyk Polski/Renesans.md",
+    "Untitled.md",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Inny świat.md",
+    "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
     "Szkola/Matematyka/Analiza Matematyczna.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Matematyka/Matematyka.md",
     "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
-    "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
@@ -183,14 +185,12 @@
     "Backend/Python/Praca z listą.md",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
-    "README.md",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
     "Szkola/Historia",
     "Szkola/Matematyka",
-    "Szkola/Wiedza o Społeczeństwie",
-    "Szkola/Język Angielski"
+    "Szkola/Wiedza o Społeczeństwie"
   ]
 }
