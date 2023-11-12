@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
+                "file": "Szkola/Jezyk Polski/Renesans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md"
+                "file": "Szkola/Jezyk Polski/Renesans.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "7d4ba0d5af77ea52",
   "lastOpenFiles": [
-    "Szkola/Wiedza o Społeczeństwie/WOS.md",
+    "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
+    "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Untitled.md",
@@ -183,7 +184,6 @@
     "Backend/Python/Funkcje.md",
     "Backend/Python/Dane wejściowe i while.md",
     "Backend/Python/Dictionaries.md",
-    "Backend/Python/Konstrukcja if.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
