@@ -1,0 +1,3 @@
+
+**Systemy ochrony praw człowieka** 
+Ludzie po II WŚ ogarnęli wkońcu, że potrzeba międzynarodowych instytucji które będą pilnować tych praw człowieka. Powstała deklaracja praw człowieka. Praw człowieka chroni min. ONZ czy Rada Europy. W Strasburgu znadjduje się Europejski Trybunał Praw Człowieka które ich chroni. ETPC w swoich strukturach ma sędziów z każdego państwa, ich głównym zadaniem jest rozpatrywanie skarg wystosowywanych przez różne podmioty, które w swojej treści mówią o braku poszanowania praw człowieka w danych miejscach.

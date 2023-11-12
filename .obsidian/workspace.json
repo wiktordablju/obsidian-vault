@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md"
+                "file": "Szkola/Wiedza o Społeczeństwie/System strasburski.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "7d4ba0d5af77ea52",
   "lastOpenFiles": [
-    "Szkola/Jezyk Polski/Średniowiecze.md",
+    "Szkola/Wiedza o Społeczeństwie/WOS.md",
+    "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
     "Szkola/Jezyk Polski/Renesans.md",
+    "Szkola/Jezyk Polski/Średniowiecze.md",
     "Untitled.md",
     "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Inny świat.md",
@@ -182,8 +184,6 @@
     "Backend/Python/Dane wejściowe i while.md",
     "Backend/Python/Dictionaries.md",
     "Backend/Python/Konstrukcja if.md",
-    "Backend/Python/Praca z listą.md",
-    "Szkola/Wiedza o Społeczeństwie/WOS.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
