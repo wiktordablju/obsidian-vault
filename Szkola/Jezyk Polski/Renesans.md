@@ -31,7 +31,21 @@ Filozofia jak i światopogląd i inne częsci życia skupiała się na antropolo
 
 ### Gatunki i przykłady utworów literackich
 
+W renesansie tworzono w gatunkach typowo antycznych jak epigramat, pieśn czyt teren, powstały również sonety czy fraszki. W dramacie pojawiła się tragedia klasyczna i komedia dellarte ale równiez dramat szeksiprowski czyli taki który łamał zasady min. trzech jedności i decorum. W epice rozwinęły się nowele i powieści.
+Popularność miało piśmiennictwo społeczno-polityczne ukazujące wzorce osobowe i reguły dla społeczeństwa zawierło się w nim min. kazanie czyli religijne ukazywanie jak powinno się postępować.
+
+Tren - Treny Kochanowskiego
+Pieśń - Pieśni Kochanowskiego 
+Psalm - Psalmy Kochanowskiego
+Dramat, tragedia - Odprawa posłów greckich
+Kazanie - Kazania sejmowe
+Tragedia - Makbet
+
 ### Wzorce osobowe epoki (Charakterystyka + utwory)
+
+**Szlachcic ziemianin** - Dobry chrześcijanin, spokojnie sobie żyje na majątku ziemskim, pielęgnuje tradycję, w razie wojny na nią idzie - Żywot człowieka poczciwego Mikołaj Rej
+**Poeta doctus, humanista** - Ma wiedzę w wielu dziedzinach, inspiruje się antykiem, angażuje się społecznie i politycznie, jest dobrze wyedukowany - Kochanowski pieśni i treny
+**Obywatel patriota** - Działa dla dobra ojczyzny, gotowy do oddania życia za swój kraj gdy jest taka ptorzeba, dostrzega błędy władców oraz potrzebne reformy, robi to jednak dla ojczyzny - Odprawa posłów greckich, kazania sejmowe
 
 ### Pojęcia
 **Humanizm** - człowiek jest miarą wszechrzeczy a ich manifestem stała się mowa. Każda jednostka jest wolna i twórcza i tylko od niej zależy jak pokieruje swoim losem, to już nie bóg decyduje od tego w jakiej warstwie się urodziłeś i w jakiej masz umrzeć. Ty możesz wszystko zmienić.
@@ -44,60 +58,86 @@ Filozofia jak i światopogląd i inne częsci życia skupiała się na antropolo
 
 **Mecenat** - opieka wpływowych i bogatych ludzi nad twórcami - tak jak teraz istnieją instytucje państwowe które zapewniają artystom odpowiednie wynagrodzenia za ich prace, tak wtedy odpowiadały za to osoby - mecenasi.
 
-**Sonet**
-**Tren**
-**Psalm**
-**Pieśń**
+**Sonet** - podzielony na dwie czesci utwór, obie części podejmują często zupełnie inne tematy lub punkty widzenia, często są one ciężkie i poważne
+
+**Tren** - poezja żałobna po stracie bliskiej osoby, są emocjonalne i podejmują polimkę na temat śmierci egzystencji i tym podobne.
+
+**Psalm** - religijny utwór poetycki, większość z nich pochodzi z biblii, są to modlitwy hymny czy pieśni pochwalne które wyrażają uczucie wiary czy jakichkolwiek uczuć względem boga.
+
+**Pieśń** - Utwór o formie śpiewnej do wyrażania swych uczuć i myśli, tak naprawdę to nie ma tutaj więcej szczegółów, są one rytmiczne mają refren i mogą być śpiewane.
 
 ### Motywy literackie epoki
 
-### Jan Kochanowski - wybrane dzieła
-(Problematyka i motywy)
-**Pieśń IX ks. I**
-**Pieśń V ks. II**
-**Tren IX**
-**Tren X**
-**Tren XI**
-**Tren XIX**
+**Humanistyczny ideał człowieka** - Człowiek ma być dobry, wyedukowany, zachowac umiar i harmonię, tolerancja religijna oraz patriotyzm, reflektujący się nad życiem.
 
-(Problematyka)
-**Psalm 13**
-**Psalm 47**
+**Bóg** - W przeciwieństwie do Średniowiecza, tutaj bóg przedstawiany jest jako osoba która stworzyła harmonijnie świat, jest wyrozumiałym opiekunem, człowiek sam do niego się zwraca.
+
+**Exegi Monumentum** - Kochanowski Treny, człowieka zapamiętuje się przez to co zrobił a nie jego zdobycze materialne za życia.
+
+**Świat jako teatr** - niektórzy w życiu są tylko uczestnikami wyreżyserowanego spektaklu w którym nie mają większego udziału oraz wpływu.
+
+
+### Jan Kochanowski - wybrane dzieła
+
+**Pieśń IX ks. I** - poruszane jest tutaj carpe diem, nawiązuje do filozofii stoickiej i epikureistycznej, podkreśla że szczęście można osiągnąć tylko przez ograniczone pragnienie oraz cnotę. Mówi też, że Bóg rządzi światem w sposób sprawiedliwy i trzyma nad nim ład. Żyj życiem bo bóg i tak robi tak że jest sprawiedliwie.
+
+**Pieśń V ks. II** - Wszystko na świecie przemija i idzie ku końcowi, nic nie jest wieczne tak samo jak ludzkie życie, wartość mają rzeczy które zachowają się na zawsze, nie są uległe przemijaniu jak cnota a nie dobra materialne, dalej nawiązuje do stoicyzmu i epikureizmu.
+
+**Tren IX** - Podmiot to renesansowy mędrzec - chwali mądrość i naukę, jednak pod koniec zaznacza że filozofia starożytnych epikurejczyków i stoików nie zapewniła mu ochrony przed rozpaczą, człowiek który całe życie dążył w tych ideach do końca życia, nagle zostaje zepchnięty na sam dół. Nawet jeśli będziesz podążał ideałami to nie uchroni cię to przed niektórymi rzeczami.
+
+**Tren X** - Pełno pytań retorycznych do zmarłej Orszuli które nie przynoszą pocieszenia dla autora. Jako poeta doctus znający dobrze pogląd ludzi antyku, chrześcijan czy rozumu zadaje pytania jak może teraz wyglądać jej życie w zaświatach. Na końcu doświadcza kryzysu wiary, zaczyna kwestionować, czy Orszula gdziekolwiek jest.
+
+**Tren XI** - Cały tren nawiązując do Brutusa wątpi w postawy stoickie i humanistyczne, nasza wiedza i madrość to złudzenie, kryzys wiary w boga i ludzkiego rozumu.
+
+**Tren XIX/Sen** - końcowy utwór trenów, jest to sen a nie rozumowna analiza. Motyw snu w którym pokazują mu się bliscy zmarli już obecny był w średniowieczu i antyku. Większość utworu to zmarła matka która w śnie nawiedza syna, trzyma w rękach zmarłą Orszulę. Nawiązuje tu do średniowiecznego przekonania że życie na ziemi to tylko epizod, równie ważne w nim jest to, że to cierpienie to tylko uczucie które każdy czlowiek poczuje, i trzeba je znieść jak człowiek, umacnia to przesłanie humanistyczne całego cyklu. 
+
+**Psalm 13**, **Psalm 47** - Pokazuje w nich postawę humanizmu chrześcijańskiego, przetłumaczył i zparafrazował Psalmy biblijne na uniwersalny charakter zarówno dla katolików jak i protestantów. Podmiot tutaj też jest inny niż w średniowieczu, nie ktoś reprezentujący zbiorowość, a jednostka przepełniona emocjami.
+
 
 **Obraz boga i człowieka**
-
+Kochanowski w swoich utworach ukazuje Boga jako rządzącego sprawiedliwie światem, on włada nad porządkiem i to człowiek musi według tego porządku żyć, akceptując swój los, w psalmach pokazuje jednak troche inną wizję, ale ma to związek, że tam nie do końca ukazuje swoją wizję, a tłumaczy i parafrazuje biblię.
 
 ### Odprawa posłow greckich - Jan Kochanowski
 
-**Plan wydarzeń**
-**Problematyka**
-**Przesłanie utworu**
-**Charakterystyka bohaterów**
-**Wzorzec parenetyczny propagowany w utworze**
-**Cechy gatunkowe utworu**
-**Dydaktyzm utworu**
+**Problematyka, Przesłanie utworu** - utwór porusza konflikt w którym sprawy osobiste, prywatne wpływają na całe państwo. Ukazuje to by wytknąć ten problem w kontekście tamtejszej Polski, fakt, że wiele osób mimo, że może zapobiec złym wydarzeniom, to wolą zachowywać się egoistycznie czy przekupnie.
 
+**Charakterystyka bohaterów**
+**Antenor** - doradca króla Priama, zwolennik pokoju z Achajami, jest patriotą i skupia się na państwie i jego dobrze mimo konfilktu prywatnego, sprawiedliwy i rozsądny ale też lojalny, gdy nie udało mu się przekonać króla przeciwko wojnie, jest gotów wziąć w niej udział
+**Aleksander(Parys)** - Syn króla, egoistyczny, swoje potrzeby widzi nad dobrem kraju, doprowadza do wojny
+
+**Wzorzec parenetyczny propagowany w utworze** - Kochanowski ukazuje jaki ma być Polak - patriotyczny, stawiający kraj na pierwszym miejscu, będący w stanie zrezygnować z własnych dóbr dla dobra ogółu ale też męstwo i honor.
+
+**Cechy gatunkowe utworu** - jest to dramat humanistyczny napisany na wzór tragedi antcznej, zasada trzech jedności - czas miejsce i akcji (Wszystko dzieje się na dworze w Troi, dotyczy jednego tematu i dzieje się jeden dzień). Decorum - bohaterowie są z klas wyższych a ich wypowiedzi cechuje powaga, na scenie jest max trzech aktorów, postaci. Jest tutaj również podział na części, prolog, główną oraz epilog.
+
+**Dydaktyzm utworu** - Osoby władające państwem są gotowe poświęcić naród dla własnych dóbr, powinno się skupiać na dobrze ogólnym.
 
 ### Kazania sejmowe - Piotr Skarga
 
-**Plan wydarzeń**
-**Problematyka utworu**
-**Motyw Ojczyzny jako tonącego okrętu**
+**Problematyka utworu** - Krytyka stanu politycznego w kraju, zwłaszcza szlachty i wyższych sfer społecznych, oczekuje naprawy moralnej ale też zachowania tradycyjengo ustroju oraz dużego udziału kościoła katolickiego. Porusza to, że Polska niszczy się sama od środka, sporami religijnymi, politycznymi, brakiem szacunku w dyskusji czy osłabianiu pozycji króla. 
 
-
+**Motyw Ojczyzny jako tonącego okrętu** - Polska jest niczym żywy organizm lub niczym okręt który tonie podczas sztormu którego nie chce uratować załoga a część nie potrafi. Ukazuje tym, że wiele osób wcale nie chce dobra dla Polski a niektórzy nawet jeśli chcą to nie potrafią. 
 
 ### Makbet - William Shakespeare
 
-**Plan wydarzeń**
-**Problematyka**
+**Problematyka** - Ukazuje destrukcyjny wpływ zbrodni na psychikę, nieuchronność kary za popełnione zło ale też pokazanie że dzięki niej można utrzymać i zdobyć władzę.  Człowiek całe życie walczy między dobrem a złem, zasadami a oszustwami. Ukazuje też jak łatwo można zostać zmanipulowanym przez inną osobę przez co człowiek nie do końca jest własnym kowalem swego losu.
+
 **Charakterystyka bohaterów**
-**Tragizm bohaterów**
-**Problematyka utworu**
-**Motywy literackie**
+**Makbet** - Przez przepowiednię oraz Lady Makbet poczuł rządzę władzy, rozbudziła w nim pychę przez co stał się okrutnym człowiekiem i tyranem. Na początku był mężny oraz wierny.
+
+**Lady Makbet** - Manipuluje Makbetem, namawia go do zbrodni którą sama zaplanowała. Końcowo wyrzuty sumienia sprawiają, że popełnia samobójstwo.
+
+**Madkuf** - Jego dzieci i żona ginie na zlecenie Makbeta, zgodnie z przepowiedzią, urodzony był przez cesarskie cięcie przez co może zemścić się na Makbecie.
+
+**Banko** - Przyjaciel Makbeta, nie wierzy wiedźmom w to, że to Makbet zabił króla, wkońcu gdy nabiera podejrzeń zostaje zabity przez jego zabójców. 
+
+**Tragizm bohaterów** - Przez Lady Makbet, która z rządzy władzy planuje zbrodnię, używając do tego Makbeta sprowadza na wszystkich wokół tragedię, sama nie wytrzymuje i popełnia samobójstwo, Makbet przez sposób uzyskania władzy paranoicznie zaczyna zabijać niewinne osoby, przez które mógłby ją utracić. 
+
 
 ### Żywot człowieka poczciwego - Mikołaj Rej
 **Problematyka**
 **Wzorzec parenetyczny - charakterystyka**
 
-### Gatunki literackie
+
+
+
 
