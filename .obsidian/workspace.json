@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc2f0be1f01b32c",
+        "id": "e49fd79aa87e9942",
         "type": "tabs",
         "children": [
           {
-            "id": "7d4ba0d5af77ea52",
+            "id": "74a2c8b0162d3867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md",
+                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Renesans.md"
+                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md"
               }
             }
           },
@@ -154,15 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d4ba0d5af77ea52",
+  "active": "74a2c8b0162d3867",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Szkola.md",
+    "Szkola/Język Niemiecki/Język Niemiecki.md",
+    "Szkola/Język Niemiecki/Pogoda - Słówka.md",
+    "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
-    "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Untitled.md",
-    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Inny świat.md",
     "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
@@ -182,15 +185,12 @@
     "Backend/Python/Pliki i wyjątki.md",
     "Backend/Python/Klasy.md",
     "Backend/Python/Funkcje.md",
-    "Backend/Python/Dane wejściowe i while.md",
-    "Backend/Python/Dictionaries.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
     "Szkola/Historia",
-    "Szkola/Matematyka",
-    "Szkola/Wiedza o Społeczeństwie"
+    "Szkola/Matematyka"
   ]
 }

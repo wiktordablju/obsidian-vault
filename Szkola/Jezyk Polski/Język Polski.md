@@ -9,3 +9,4 @@
 ### Epoki:
 [[Antyk]]
 [[Średniowiecze]]
+[[Renesans]]
