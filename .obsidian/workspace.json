@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e49fd79aa87e9942",
+        "id": "4b2146ce9f553218",
         "type": "tabs",
         "children": [
           {
-            "id": "74a2c8b0162d3867",
+            "id": "f5a2dc11259636c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
+                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
+                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md",
+                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Język Niemiecki/Pogoda - Słówka.md"
+                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md"
               }
             }
           },
@@ -154,13 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a2c8b0162d3867",
+  "active": "f5a2dc11259636c7",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
+    "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
+    "Szkola/Matematyka/Analiza Matematyczna.md",
+    "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Jezyk Polski/Renesans.md",
+    "Szkola/Język Niemiecki/Pogoda - Słówka.md",
     "Szkola/Szkola.md",
     "Szkola/Język Niemiecki/Język Niemiecki.md",
-    "Szkola/Język Niemiecki/Pogoda - Słówka.md",
-    "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
     "Szkola/Wiedza o Społeczeństwie/WOS.md",
@@ -169,11 +173,8 @@
     "Szkola/Jezyk Polski/Inny świat.md",
     "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
-    "Szkola/Matematyka/Analiza Matematyczna.md",
-    "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Matematyka/Matematyka.md",
     "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
-    "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
@@ -184,7 +185,6 @@
     "Backend/Python/Testowanie kodu.md",
     "Backend/Python/Pliki i wyjątki.md",
     "Backend/Python/Klasy.md",
-    "Backend/Python/Funkcje.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
