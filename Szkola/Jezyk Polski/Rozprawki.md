@@ -1,7 +1,11 @@
+
+[[Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje]]
+
 ##  Prawa i obowiązki, czy jednostka moze przekraczac granice, dazac do realizacji swoich celow
 
 
 ## Od biernosci do buntu, postawy czlowieka wobec problemow rzeczywistosci w ktorej zyje 
+
 
 ### Wprowadzenie
 Zycie czlowieka charakteryzuje sie tym, ze wplywa na nie wiele rzeczy niezaleznych od nas. Czasem sa to proste rzeczy jak nagla zmiana pogody, czasem jednak sa to rzeczy o wiele ciezsze i bardziej zlozone takie jak problemy rodzinne czy calego kraju. Laczy je jednak to, ze kazdy reaguje na nie inaczej, czasem ludzie aktywnie dzialaja zeby naprawic rzeczywistosc w ktorej zyja a niektorzy zostaja przy biernosci i braku zaangazowania a pokaze to na przykladach z Dziadow cz.3 Adama Mickiewicza oraz Przedwiosnia Stefana Zeromskiego.  

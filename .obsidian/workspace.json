@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
+                "file": "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
+                "file": "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
+                "file": "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md"
+                "file": "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md"
               }
             }
           },
@@ -156,12 +156,14 @@
   },
   "active": "f5a2dc11259636c7",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Rozprawki.md",
+    "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
+    "Szkola/Jezyk Polski/Renesans.md",
+    "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
     "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Matematyka/Analiza Matematyczna.md",
-    "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Język Polski.md",
-    "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Język Niemiecki/Pogoda - Słówka.md",
     "Szkola/Szkola.md",
     "Szkola/Język Niemiecki/Język Niemiecki.md",
@@ -172,7 +174,6 @@
     "Untitled.md",
     "Szkola/Jezyk Polski/Inny świat.md",
     "Szkola/Jezyk Polski/Inny świat.pdf",
-    "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
     "Szkola/Matematyka/Matematyka.md",
     "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
     "Szkola/Jezyk Polski/Antyk.md",
@@ -184,7 +185,6 @@
     "Backend/Python/Python.md",
     "Backend/Python/Testowanie kodu.md",
     "Backend/Python/Pliki i wyjątki.md",
-    "Backend/Python/Klasy.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
