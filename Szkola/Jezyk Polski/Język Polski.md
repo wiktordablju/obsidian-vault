@@ -10,3 +10,4 @@
 [[Antyk]]
 [[Średniowiecze]]
 [[Renesans]]
+[[Barok]]

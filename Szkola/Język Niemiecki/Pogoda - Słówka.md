@@ -9,7 +9,7 @@ regnerisch - deszczowo
 eisig - lodowato
 windig - wietrznie
 wolkig - pochmurnie
-neblig - mglist
+neblig - mgliscie
 schnee - śnieg
 frühling - wiosna
 sommer - lato
