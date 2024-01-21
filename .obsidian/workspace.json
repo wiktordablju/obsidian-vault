@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Barok.md",
+                "file": "Szkola/Jezyk Polski/Język Polski.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Barok.md",
+                "file": "Szkola/Jezyk Polski/Język Polski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Barok.md",
+                "file": "Szkola/Jezyk Polski/Język Polski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Barok.md"
+                "file": "Szkola/Jezyk Polski/Język Polski.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "f513f656f2dfe155",
   "lastOpenFiles": [
     "Szkola/Jezyk Polski/Barok.md",
+    "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Antyk.md",
@@ -184,13 +185,11 @@
     "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
     "Backend/Python/Wprowadzenie do list.md",
     "Backend/Python/Zmienne i proste typy danych.md",
-    "Backend/Python/Python.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
     "Szkola/Język Niemiecki",
-    "Szkola/Historia",
-    "Szkola/Matematyka"
+    "Szkola/Historia"
   ]
 }
