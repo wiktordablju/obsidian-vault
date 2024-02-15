@@ -2,6 +2,7 @@
 ### Lektury:
 [[Opowiadania Tadeusza Borowskiego]]
 [[Inny świat]]
+[[Dżuma]]
 
 ### [[Rozprawki]]
 
@@ -11,3 +12,4 @@
 [[Średniowiecze]]
 [[Renesans]]
 [[Barok]]
+[[Wojna i Okupacja]]

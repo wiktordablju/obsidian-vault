@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab50eedd62a3962",
+        "id": "a6c065b69c190f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "93d76d0ff13ff057",
+            "id": "10f6b01bdcdb78f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md"
+              }
             }
           },
           {
@@ -146,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93d76d0ff13ff057",
+  "active": "10f6b01bdcdb78f9",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Dżuma.md",
     "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Jezyk Polski/Wojna i Okupacja.md",
     "Szkola/Jezyk Polski/Barok.md",
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Średniowiecze.md",
@@ -176,8 +186,6 @@
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
-    "Backend/Python/Wprowadzenie do list.md",
-    "Backend/Python/Zmienne i proste typy danych.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",

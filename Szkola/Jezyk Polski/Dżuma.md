@@ -1,25 +1,47 @@
 
-Bernard Rieux (Rie) - Doktor, zona wyjechala do uzdrowiska, bardzo zaangazowany w leczenie, jest giga ogarniaczem jednak po wielu miesiacach zaczyna byc co raz bardziej obojetny bo cialge pracuje a ludzie nie sa wdzieczni. Jest zniszczony wiadomosciami o smierci i Tarrou i Zony, czuje ze przegral z dzuma. Okazuje sie byc narratorem calej opowiesci. Konczy wszystko slowami ze ludzie zasluguja na wiecej podziwu niz pogardy a dzuma nigdy nie umiera i kiedys znowu uaktywni sie w szczesliwym miescie byl udzie umierali
+## Bernard Rieux
 
-Jean Tarrou  - bardzo pozytywny ale tajemniczy ziomek, malo o nim wiadomo, tworzy oddzialy pomagajace w walce z dzuma. Pozniej wyjawia swoja historie, jego ojciec byl jego idolem, pracowal jako prokurator. Jednak po zobaczeniu ze walczy on o kary smierci dla ludzi, stracil do niego szacunke i uciekl z domu by walczyc ze smiercia. Bral udzial w polityce i konfliktach, kazdy czlowiek nosi w sobie dzume i chec do zabijania. Tarrou juz pod koniec choruje na dzume i umiera
+- **Zawód:** Doktor
+- **Charakterystyka:** Z żoną, która wyjechała do uzdrowiska, bardzo zaangażowany w leczenie chorych. Początkowo pełen determinacji, z czasem staje się coraz bardziej obojętny z powodu ciągłej pracy i braku wdzięczności ze strony pacjentów. Zniszczony wiadomościami o śmierci Tarrou i swojej żony, czuje, że przegrał z dżumą. Ostatecznie okazuje się być narratorem całej historii. Podsumowuje opowieść słowami, że ludzie zasługują na więcej podziwu niż pogardy, a dżuma nigdy nie umiera i kiedyś znów uaktywni się w szczęśliwym mieście, gdzie ludzie umierają.
 
-Joseph Grand - urzednik, stracil zone przez to ze nie mial dla niej czasu. Choruje na dzume, rieux leczy go u niego w domu, okazuje sie ze ksiazka ktora Grand pisal to 50 stron powtarzania ciagle pierwszego zdania doprowadzajc je do perfekcji. Dzieki serum udaje sie go uratowac. Zaczal pisac ksiazke na nowo i napisal do swojej ukochanejh
+## Jean Tarrou
 
-Raymond Rambert - Dziennikarz, nie jest z miasta, bardzo prosi o wydostanie sie do swojej zony ktora jest w paryzu, dzieki Cottardowi ogarnia sobie u nielegalnej organizacji ucieczke z miasta. Koncowo zmienia sie i przestaje byc egoista, nie uceika.
+- **Charakterystyka:** Pozytywny, ale tajemniczy, tworzy oddziały pomagające w walce z dżumą. Ujawnia swoją historię; zraził się do ojca, prokuratora walczącego o kary śmierci, i uciekł z domu, by walczyć ze śmiercią. Uczestniczył w polityce i konfliktach, wierząc, że każdy człowiek nosi w sobie "dżumę" i chęć do zabijania. Tarrou choruje na dżumę i umiera.
 
-Cottard - probowal sie zabic, jednak nagle po wybuchu epidemii zaczal byc bardzo wychodzacy do ludzi - potem wynika ze cieszy sie poniewaz liczy ze ucieknie od konsekwencji za cos za co moglby zostac zamkniety w wiezieniu. Gdy epidemia sie konczy jest strasznie zaklopotany, policja znow bedzie dzilaac i beda chcieli go zamknac w wiezieniu. Zaczyna strzelac do ludzi z okna, zatrzymuje go policja.
+## Joseph Grand
 
-Ojciec Paneloux - ksiadz, przedstawia dzume jako kare, moment proby. Po smierci malego dzieciaka zmienia sie calkowicie zachecal do walki i jednak stwierdzil ze to wyzwanie. Zmarł na dzume
+- **Zawód:** Urzędnik
+- **Charakterystyka:** Stracił żonę, ponieważ nie poświęcał jej czasu. Choruje na dżumę, ale dzięki serum udaje się go uratować. Pisze książkę, skupiając się na doprowadzeniu pierwszego zdania do perfekcji. Zaczyna pisać książkę na nowo i pisze do swojej ukochanej.
 
-Doktor Castel - wymyslil serum na dzume
+## Raymond Rambert
 
-Pierwsze szczury znalazł Rieux w kwietniu, koniec w lutym nastepnego roku
-Po tym jak miasto zamknieto ludzie zostali odcieci od ludzi z innych miast, dzialaly tylko telegramy
-Gdy epidemia co raz bardziej zacznyala szalec, ludzie co raz czesciej zaczeli chodzic do kosciola
-Powstal dziennik - Kurier epidemii ktory opowiadal tlyko o sytuacji dzumy, bylo co raz mniej rzeczy do jedzenia 
-W glebokim lecie zaczynaja sie pozary, ludzie podpalaja swoje domy, cale dzielnice sa izolowane, chorowali wszyscy
-Ludzie z zewnatrz zaczynali rabowac i pladrowac miasto, w tym tez czasie zaczeto chowac zmarlych w masowych mogilach
-Po czasie ciala trzeba bylo palic bo nie bylo jak ich chowac
-Okazuje sie ze ludzie wcale nie byli przekonani do religii tylko do zabobonow, nosili talizmanu zeby sie uchronic przed dzuma
-Strasznie rosnely ceny, rosnac za to przestaly przypadki dzumy 
-Symbolem koncowki epidemii bylo pojawienie sie na ulicy kota, ludzie dalej smutni po ogromynch stratach zaczeli sie zastanawiac co oni beda robic po otwarciu miasta
+- **Zawód:** Dziennikarz
+- **Charakterystyka:** Nie jest z miasta, prosi o możliwość wydostania się do swojej żony w Paryżu. Dzięki Cottardowi organizuje ucieczkę z miasta, ale ostatecznie zmienia decyzję i zostaje, rezygnując z egoizmu.
+
+## Cottard
+
+- **Charakterystyka:** Próbuje popełnić samobójstwo, ale epidemia daje mu poczucie ulgi, licząc na ucieczkę od konsekwencji swoich czynów. Po zakończeniu epidemii wpada w panikę, obawiając się powrotu normalności i konsekwencji swoich działań. Zaczyna strzelać do ludzi, zostaje zatrzymany przez policję.
+
+## Ojciec Paneloux
+
+- **Zawód:** Ksiądz
+- **Charakterystyka:** Początkowo przedstawia dżumę jako karę, ale po śmierci dziecka zmienia swoje podejście, zachęcając do walki z chorobą. Umiera na dżumę.
+
+## Doktor Castel
+
+- **Charakterystyka:** Wynajduje serum na dżumę.
+
+## Wydarzenia
+
+- Pierwsze szczury znalezione przez Rieux w kwietniu, epidemia kończy się w lutym następnego roku.
+- Po zamknięciu miasta mieszkańcy zostają odcięci od reszty świata, działają tylko telegramy.
+- Wzrost liczby ludzi uczęszczających do kościoła w miarę nasilania się epidemii.
+- Powstaje "Kurier Epidemii", dziennik opisujący tylko sytuację dżumy.
+- W głębokim lecie dochodzi do pożarów, ludzie podpalają swoje domy, całe dzielnice są izolowane.
+- Z zewnątrz miasta dochodzi do rabunków i plądrowania.
+- W miarę braku miejsc na cmentarzach, zmarłych zaczęto chować w masowych mogiłach, a następnie spalać.
+- Wzrost zabobonów wśród mieszkańców, noszenie talizmanów w celu ochrony przed dżumą.
+- Wzrost cen i zmniejszenie liczby przypadków dżumy.
+- Pojawienie się kota na ulicy symbolizuje koniec epidemii; mieszkańcy, pomimo ogromnych strat, zastanawiają się nad swoją przyszłością po otwarciu miasta.
+
+---
