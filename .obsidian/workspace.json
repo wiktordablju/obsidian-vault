@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "85caa1b51970d152",
+        "id": "3ab50eedd62a3962",
         "type": "tabs",
         "children": [
           {
-            "id": "f513f656f2dfe155",
+            "id": "93d76d0ff13ff057",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Szkola/Jezyk Polski/Język Polski.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Język Polski.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Język Polski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Szkola/Jezyk Polski/Język Polski.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f513f656f2dfe155",
+  "active": "93d76d0ff13ff057",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Dżuma.md",
+    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Barok.md",
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Jezyk Polski/Antyk.md",
-    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Matematyka/Analiza Matematyczna.md",
     "Szkola/Jezyk Polski/Poezja II WŚ i okupacji.md",
