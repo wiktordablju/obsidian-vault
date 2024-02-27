@@ -12,4 +12,5 @@
 [[Średniowiecze]]
 [[Renesans]]
 [[Barok]]
+[[Oświecenie]]
 [[Wojna i Okupacja]]

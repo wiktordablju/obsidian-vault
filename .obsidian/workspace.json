@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c065b69c190f9c",
+        "id": "c13e8a815c32b3e8",
         "type": "tabs",
         "children": [
           {
-            "id": "10f6b01bdcdb78f9",
+            "id": "3605767324757b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
+                "file": "Szkola/Jezyk Polski/Oświecenie.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb16b515e221b4e",
+        "id": "c11d3d49d0b2964f",
         "type": "tabs",
         "children": [
           {
@@ -43,26 +43,30 @@
             }
           },
           {
+            "id": "10f6b01bdcdb78f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Szkola/Jezyk Polski/Oświecenie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1f4b2f4c729ce034",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "49281270671c621a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
+                "file": "Szkola/Jezyk Polski/Oświecenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md",
+                "file": "Szkola/Jezyk Polski/Oświecenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Wojna i Okupacja.md"
+                "file": "Szkola/Jezyk Polski/Oświecenie.md"
               }
             }
           },
@@ -154,12 +158,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10f6b01bdcdb78f9",
+  "floating": {
+    "id": "6e15e2fb5c077763",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4466df5cb55ccf70",
+        "type": "window",
+        "children": [
+          {
+            "id": "3508e007243ce9a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49281270671c621a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 93,
+        "y": 23,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "3605767324757b41",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Oświecenie.pdf",
+    "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Jezyk Polski/Oświecenie.md",
+    "Szkola/Jezyk Polski/Wojna i Okupacja.md",
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Dżuma.md",
-    "Szkola/Jezyk Polski/Język Polski.md",
-    "Szkola/Jezyk Polski/Wojna i Okupacja.md",
     "Szkola/Jezyk Polski/Barok.md",
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Średniowiecze.md",
@@ -185,12 +224,10 @@
     "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.md",
-    "Szkola/Wiedza o Społeczeństwie/Prasówki.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
     "Szkola/Geografia",
-    "Szkola/Język Niemiecki",
-    "Szkola/Historia"
+    "Szkola/Język Niemiecki"
   ]
 }
