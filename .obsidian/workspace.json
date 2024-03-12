@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Oświecenie.md",
+                "file": "Szkola/Jezyk Polski/Romantyzm.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,6 +68,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "65e141dbc746242f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Oświecenie.md",
+                "file": "Szkola/Jezyk Polski/Romantyzm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Oświecenie.md",
+                "file": "Szkola/Jezyk Polski/Romantyzm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Oświecenie.md"
+                "file": "Szkola/Jezyk Polski/Romantyzm.md"
               }
             }
           },
@@ -158,44 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "6e15e2fb5c077763",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4466df5cb55ccf70",
-        "type": "window",
-        "children": [
-          {
-            "id": "3508e007243ce9a2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49281270671c621a",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 93,
-        "y": 23,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "3605767324757b41",
   "lastOpenFiles": [
+    "Szkola/Jezyk Polski/Oświecenie.md",
+    "Szkola/Jezyk Polski/Romantyzm.md",
     "Szkola/Jezyk Polski/Oświecenie.pdf",
     "Szkola/Jezyk Polski/Język Polski.md",
-    "Szkola/Jezyk Polski/Oświecenie.md",
     "Szkola/Jezyk Polski/Wojna i Okupacja.md",
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Dżuma.md",
@@ -227,7 +203,6 @@
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
     "Backend/Java",
-    "Szkola/Geografia",
-    "Szkola/Język Niemiecki"
+    "Szkola/Geografia"
   ]
 }
