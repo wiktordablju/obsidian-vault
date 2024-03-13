@@ -1,15 +1,15 @@
 
 ### Nazwa epoki i ramy czasowe
-Nazwa Romantyzm swoje korzenie ma w łacńskim romanticus co oznacza niezwykły. Początek Romantyzmu uznaje się 1789 czyli koniec Rewolucji Francuskiej a za jej konie Wiosnę Ludów 1849. W Polsce uznaje się od 1822 czyli wydanie Ballad i romansów Mickiewicza a za koniec 1863 - Powstanie Styczniowe.
-
+Nazwa "Romantyzm" wywodzi się z łacińskiego słowa "romanticus", co oznacza "niezwykły". Początek Romantyzmu datuje się na rok 1789, czyli koniec Rewolucji Francuskiej, a za jego koniec uznaje się Wiosnę Ludów w 1849 roku. W Polsce przyjmuje się, że epoka ta rozpoczęła się w 1822 roku wraz z wydaniem "Ballad i romansów" przez Adama Mickiewicza, a zakończyła w 1863 roku, po Powstaniu Styczniowym.
 ### Światopogląd i filozofia epoki
 
-Czas przed i w trakcie Romantyzmu był burzliwy i niebezpieczny, ludzie zaczęli przez to uciekać do przyrody, wyobraźni, fascynowały ich rzeczy fantastyczne, mistyczne, mroczne, nieznane. Irracjonalizm. Kolejny raz w sinusoidzie dominował teocentryzm, ludzie zamiast na umyśle skupiali się na bogu, emocjach. Teraz też oprócz Boga, poeci zostawali wielkimi guru dla społeczeństwa. Podkreślany był indywidualizm i bunt młodych. We wcześniejszych epokach zawsze im starszy tym ważniejszy byłeś, bardziej doświadczony. Ludowość. Ważne w kontekście romantyzmu, to że w trakcie jego trwania zaszły zmiany, i ludzie faktycznie zaczęli czuć się przynależni do danego narodu. Występowało duże zainteresowanie historią swojego kraju, orientalizmem, ludzie chcieli poznawać to co nieznane, mistyczne. Większość romantyzmu kręciło się też wokół natury.
-Filozofia opierała się głównie na odrzuceniu oświeceniowego empiryzmu, wierzyli, że świat odkrywa się również i często głównie nie w sferze życiowej, fizycznej. Dla polaków ważny był równiez mesjanizm, na emigracji wierzyli w to, że Polska ma tak pod górkę żeby zbawić potem całą Europę. 
+Okres przed i w trakcie Romantyzmu był burzliwy i niebezpieczny, co skłoniło ludzi do ucieczki w świat przyrody, wyobraźni, a także fascynacji rzeczami fantastycznymi, mistycznymi, mrocznymi i nieznanymi. Dominował irracjonalizm. Ponownie na pierwszy plan wysunął się teocentryzm, z naciskiem na Boga i emocje zamiast na umysł. W tym czasie poeci stawali się duchowymi przewodnikami społeczeństwa. Podkreślano indywidualizm i bunt młodych, co stanowiło odejście od tradycyjnego przekonania, że z wiekiem rośnie ważność i doświadczenie. Ważnym aspektem epoki była również ludowość i rosnące poczucie przynależności narodowej. Zainteresowanie historią własnego kraju, orientalizmem i chęć poznawania tego, co nieznane, było wszechobecne. W centrum uwagi romantyzmu pozostawała natura.
+
+Filozofia epoki opierała się głównie na odrzuceniu empiryzmu charakterystycznego dla oświecenia. Wierzono, że świat można odkrywać nie tylko w sferze fizycznej, ale również i przede wszystkim duchowej. Dla Polaków ważnym aspektem było również pojęcie mesjanizmu, szczególnie na emigracji, gdzie wierzono, że Polska musi cierpieć, aby później zbawić całą Europę.
 
 ### Cechy sztuki romantycznej
 
-Zaprzestano inspirować się jedną epoką czy stylem. Sztuka miała wyrażać artystę nieważne czy wpasowuje się w mode czy trendyt, zainteresowanie się naturą, egzotyką, ludowością, fantastyką, historią. Częsty motyw to konflikt człowieka z naturą. Najważniejsza w malarstwie była dynamika, kolory, ekspresja. W romantyzmie bardzo w malarstwie rozwinął się wątek malowania poetów czy postaci z książek. W architekturze panował neogotyk/historyzm który w sumie był tym co gotyk.
+W romantyzmie zaprzestano inspirowania się jedną epoką czy stylem. Sztuka miała wyrażać artystę, bez względu na to, czy wpasowywała się w modne czy trendy nurty. Zainteresowanie naturą, egzotyką, ludowością, fantastyką i historią było powszechne. W malarstwie szczególną rolę odgrywała dynamika, kolor i ekspresja. Rozwinął się również motyw malowania poetów czy postaci z literatury. W architekturze dominował neogotyk i historyzm, nawiązujące do gotyku.
 
 ### Cechy bohatera romantycznego 
 
@@ -20,27 +20,28 @@ Zaprzestano inspirować się jedną epoką czy stylem. Sztuka miała wyrażać a
 - Patriota
 - Idealista
 
-**Werterowski** - samotnik, marzyciel, zawód miłosny => próba samobójcza
-**Bajronista** - samotnik, buntuje się przeciwko prawom, przezwycięża cierpienie spowodowane miłością lub zbrodnią i robi dobrze rzeczy. 
-**Faustowski** - dąży do poznania prawdy absolutnej, całej wiedzy o świecie, nawet współpracować z szatanem, diabłem/
-**Wallenrodyczny** - Buntuje się w stylu prometeusza, podstępny, spiskowy. 
+**Werterowski** - samotnik, marzyciel, cierpiący z powodu nieszczęśliwej miłości, często kończący życie samobójstwem. 
+**Bajronowski** - samotny buntownik, który przezwycięża cierpienie spowodowane miłością lub zbrodnią i postępuje szlachetnie. 
+**Faustowski** - dążący do poznania prawdy absolutnej, całej wiedzy o świecie, nawet za cenę współpracy z siłami zła. 
+**Wallenrodowy** - buntownik w stylu Prometeusza, działający podstępnie, spiskowo.
 
 ### Cechy gatunkowe
 
-**Dramat romantyczny** - Zupełnie inny niż klasyczne dramaty, zerwanie z zasadą trzech równości, otwarta kompozycja, brak zakończenia, brak powiązań bezpośrednich w wątkach.
-**Powieść poetycka** - Zbudowana wokół tajmniczych, fantastycznych wydarzeń, luźno powiązane ze sobą fragmenty wydarzeń. Łączy nastrojowość liryki, fabułę epiki i dialogi z dramatu
-**Ballada** - Opowieść o fantastycznych/legendarnych historiach. Tajemniczy nastrój, odwoływanie się do boga, ludowości. 
-**Sonet** - 14 wersów, 4 strofy, dwie pierwsze to opis, trzecia czwarta refleksja.
+**Dramat romantyczny** - różni się od klasycznych dramatów, zerwanie z zasadą trzech jedności, otwarta kompozycja, brak zamkniętego zakończenia, brak bezpośrednich powiązań między wątkami. 
+**Powieść poetycka** - zbudowana wokół tajemniczych, fantastycznych wydarzeń, luźno powiązane fragmenty. Łączy nastrojowość liryki, fabułę epiki i dialogi dramatu. 
+**Ballada** - opowieść o fantastycznych lub legendarnych historiach, tajemniczy nastrój, odwołania do boga i ludowości. 
+**Sonet** - składa się z 14 wersów, podzielonych na 4 strofy, dwie pierwsze to opis, a dwie ostatnie refleksja.
 
 ### Pojęcia
-**Winkelriedyzm** - Winkelried to szwajcarski bohater narodowy, poświęcił się dla swoich towarzyszy, Polska Winkelriedem narodów.
-**Mistycyzm** - Doświadczenie duchowe, wiara w to, że głównie doświadczenie życiowe bierze się z właśnie wewnętrznych, duchowych historii. 
-**Mesjanizm** - Polska Chrystusem narodów, cierpienie jednej osoby dla całego świata, Europy 
-**Irracjonalizm** - Intuicja, wewnętrzne przeżycia, opozycja do empiryzmu.
-**Orientalizm** - Fascynacja sztuką wschodu - rosją, krymem.
-**Martyrologia** - Motyw cierpienia i męczęństwa, w literaturze najczęściej w kontekście narodu polskiego.
-**Historyzm maski** - Dzieła historyczne stanowiły metafore do obecnej sytuacji.
-**Wallenrodyzm** - Walka z wrogiem poprzez podstęp, spisek, zdradę.
+
+**Winkelriedyzm** - idea poświęcenia się dla innych, Polska jako "Winkelried narodów". 
+**Mistycyzm** - doświadczenie duchowe, przekonanie o źródle życiowych doświadczeń w sferze wewnętrznej, duchowej.
+**Mesjanizm** - idea Polski jako "Chrystusa narodów", cierpienie dla dobra większej całości. 
+**Irracjonalizm** - prymat intuicji i wewnętrznych przeżyć nad empiryzmem. 
+**Orientalizm** - fascynacja kulturą Wschodu, w tym Rosją i Krymem. 
+**Martyrologia** - motyw cierpienia i męczeństwa, często w kontekście narodu polskiego.
+**Historyzm** - dzieła historyczne jako metafora współczesności. 
+**Wallenrodyzm** - walka z wrogiem przez podstęp, spisek, zdradę.
 
 ### Miłość romantyczna 
 
@@ -51,13 +52,47 @@ Zaprzestano inspirować się jedną epoką czy stylem. Sztuka miała wyrażać a
 - Nieosiągalność
 - Samotność
 
-### Dlaczego Oda do młodości, ballada Romantyczność to manifesty programowe romantyzmu. Znajomość utworów, problematyka.
+### Adam Mickiewicz
+##### Biografia
+Adam Mickiewicz, urodzony na historycznych ziemiach litewskich po III rozbiorze Polski, przed osiemnastym rokiem życia przeniósł się do Wilna, ówczesnej stolicy Litwy. Tam, na Uniwersytecie Wileńskim, rozpoczął edukację, zakładając równocześnie organizacje filomatów i filaretów, które stały się miejscem jego pierwszych poetyckich prób. Połączenie doświadczeń z litewskiej natury i nieszczęśliwej miłości zaowocowało u niego ukształtowaniem się poglądów romantycznych. W tym okresie opublikował swoje kluczowe dzieła: "Ballady i romanse", "Dziady" cz. II i IV. Jego działalność w ramach filomatów skutkowała zesłaniem w głąb Rosji, gdzie przebywał m.in. w Petersburgu i Odessie. W Krymie, inspirując się orientalistyczną modą romantyzmu, napisał słynne "Sonety krymskie". Po publikacji "Konrada Wallenroda", ukryty przekaz dzieła wzbudził niepokój władz, co zmusiło Mickiewicza do ucieczki na emigrację. Podczas powstania listopadowego, nie mogąc dotrzeć do kraju, napisał "Dziady" cz. III, uznawane za jego najważniejsze dzieło. Resztę życia spędził głównie w Paryżu i Lozannie, gdzie wykładał i opublikował "Pana Tadeusza", ostatnie z jego wielkich dzieł. Zajmował się również działalnością polityczną i publicystyką, należeniem do kultu Towiańskiego i wspierając tworzenie legionów we Włoszech i Turcji, gdzie ostatecznie zmarł.
 
-### Adam Mickiewicz (biografia z dzielami, filomaci, romantycznosc, switez, lilje)
+##### Filomaci i Filareci
+Filomaci i Filareci, organizacje założone nielegalnie podczas studiów Mickiewicza na Uniwersytecie Wileńskim, początkowo odwoływały się do treści oświeceniowych, ale z czasem stały się miejscem, w którym kształtował się jego romantyczny światopogląd. Działalność w tych stowarzyszeniach ostatecznie przyczyniła się do jego zesłania w głąb Rosji.
+
+##### Oda do młodości 
+Przedstawia kontrast między światopoglądem klasycystycznym, oświeceniowym a nowym, buntowniczym romantyzmem. Krytykuje konserwatyzm klasycystów, manifestując cechy charakterystyczne romantyzmu, w tym przekonanie, że życia nie można poznać tylko przez pryzmat sfery fizycznej, ale również duchowej.
+
+##### Romantyczność 
+Opowiada historię Karusi, która wyciąga ręce do ducha, symbolizując wiarę w obecność duchową ukochanego Jaśka. Pojawia się postać starca, reprezentująca klasycystów, krytykująca tę postawę. Utwór ten, podobnie jak "Oda do młodości", stanowi manifest cech romantyznych, akcentując znaczenie sfery duchowej i emocjonalnej w poznawaniu świata.
+##### Świteź
+
+"Świteź" to ballada, która przenosi nas na Litwę, gdzie na dnie jeziora znajduje się zatopione miasto. Historia rozpoczyna się, gdy mieszkańcy pobliskich miejscowości wyławiają z wód tajemniczą dziewczynę. Opowiada ona, że niegdyś na miejscu jeziora stało miasto Świteź. Gdy zbliżały się wojska rosyjskie, żaden z mężczyzn nie mógł bronić miasta, bo wszyscy poszli na wojnę, wspierając króla. Najeźdźcy zamierzali wymordować bezbronne miasto, lecz Bóg uchronił jego mieszkańców, przemieniając agresorów w jezioro, a obrońców w wodne kwiaty. Legenda głosi, że żołnierze, którzy próbują zerwać te kwiaty, giną w tajemniczych okolicznościach, statki przepływające przez jezioro toną, a mieszkańcy unikają kontaktu z wodnymi roślinami. Ballada ta wpisuje się w romantyczny nurt fascynacji naturą, historią i tajemnicą, podkreślając również ludowe wierzenia i mitologię.
+
+##### Lilje
+
+"Lilje" opowiadają o tragicznej historii miłości i zdrady. Żona czeka na powrót męża z wojny, pełna niecierpliwości i tęsknoty. Jednak mąż, nieświadomy zdrady, którą żona mu gotuje, jest pełen nadziei na ich ponowne spotkanie. Żona, zdając sobie sprawę z własnej niewierności, postanawia zabić powracającego męża. Po dokonaniu morderstwa, pochowuje go i sadzi na jego grobie lilie jako symbol niewinności i czystości, jednocześnie ukrywając swoją zbrodnię przed rodziną męża. Gdy duch męża objawia się, żona pada w mdłości. Bracia męża, chcąc się ożenić z wdową, nieświadomie zrywają lilię z grobu, co prowadzi do kłótni między nimi. Duch męża przeklina ich, co kończy się ich śmiercią i zapadnięciem kościoła pod ziemię. "Lilje" ukazują siłę ducha i konsekwencje zdrady, jednocześnie odwołując się do motywów nadprzyrodzonych i kary za grzechy.
 
 ### Dziady cz.2
 
+##### Plan wydzarzeń
+1. Rozpoczęcie dziadów, Guślarz i zebrani ludzie.
+2. Wezwanie duchów lekkich, pojawia się Juzio i Rózia - całe życie mieli dobrze więc potrzebują gorczycy by zaznać goryczy.
+3. Wezwanie duchów ciężkich, pojawia się Zły Pan - ptaki latają za nim i nie dają mu nigdy zjeść, za życia traktował jak psów swoich ludzi i skazał matkę na zamarznięcie podczas wigilii. Kto człowiekiem nie był ani razu, od człowieka pomocy nie dostanie.
+4. Wezwanie duchów średnich, Zosia, uwodziła paru chłopaków ale nigdy z nikim nie wyszła za mąż. Zmarła młodo, przez co musi jeszcze 2 lata pałętać się po świecie.
+5. Pojawienie się tajemniczego widma z krawiącym sercem, widmo milczy, nie reaguje, podąża jedynie za jedną dziewczyną.
+
 ### Dziady cz.4
+
+1. Pojawia się pustelnik u księdza
+2. Jest ubrany w losowe szaty ze sztyletem
+3. Trzy rodzaje smierci
+4. Opowiesc o jego milosci z ukochana, starym miejscu zamieszkania
+5. Kochanka zostawila go dla innego, opowiada o skapym lichwiazu
+6. Powrot do rodzinnego domu, nikt nie zyje zostala jedynie macocha i pies
+7. Rozstanie sie z ukochana
+8. Samobojstwo
+9. Gustaw prosi o przywrocenie dziadow
+10. Znika
 
 ### Dziady cz.3
 
@@ -84,7 +119,6 @@ Zaprzestano inspirować się jedną epoką czy stylem. Sztuka miała wyrażać a
 ##### Czas i miejsce akcji
 1823 w Wilnie, w klasztorze Bazylianów przekształconym na więzienie. Dodatkowo Warszawa - Salon, Wysocki i polska młodzież, Lwów - Ewa, Petersburg.
 
-### Upiór
 
 ### Sonety krymskie (problematyka, geneza)
 
