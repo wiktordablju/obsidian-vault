@@ -122,6 +122,38 @@ Opowiada historię Karusi, która wyciąga ręce do ducha, symbolizując wiarę 
 
 ### Sonety krymskie (problematyka, geneza)
 
+  
+Wśród rozległych **stepów Akermańskich**, podmiot liryczny zatapia się w refleksji, otoczony ciszą i majestatycznym pięknem Krymu. Tęsknota za ojczyzną jest silna, jednak żaden głos z Litwy nie dociera na te odległe stepy. Mimo wszystko, urok krajobrazu i spokój natury sprawiają, że miejsce to wydaje się przyjemne.
+
+Podczas **Ciszy morskiej**, podróż statkiem daje okazję do rozmyślań. Meduzy, pływające spokojnie podczas sztormu, stają się symbolem spokoju. Ten spokój morski prowadzi do głębokich refleksji, tęsknoty za bliskimi i ojczyzną. Jednak tylko praca w trakcie sztormu pozwala na chwilowe odcięcie się od tej tęsknoty.
+
+**Żegluga** przynosi zmianę - nadchodzi wiatr i sztorm, które wzbudzają ekscytację. To starcie z siłami natury daje podmiotowi możliwość na chwilę zapomnienia o tęsknocie za domem.
+
+Podczas rozmowy z Mirzą, w **Widoku gór ze stepów Kozłowa**, podmiot nie może się oprzeć fascynacji pięknem krymskich krajobrazów, zwłaszcza szczytem Czatyrdah, co jest dla niego źródłem nieustającego zachwytu.
+
+Przechadzając się po **Bakczysaraju**, ruiny pałacu dawnych władców Krymu, teraz opanowane przez naturę, skłaniają do refleksji nad przemijaniem cywilizacji. Symbole kruchości ludzkich dokonań i potęgi natury są widoczne na każdym kroku.
+
+**Bakczysaraj w nocy** ukazuje, jak zmienia się percepcja w zależności od pory dnia. Nocna aura otacza pałac tajemniczością, pokazując inne, bardziej intymne oblicze miejsca.
+
+Stojąc przy **Grobie Potockiej**, podmiot rozmyśla nad losem młodej Polki, co prowadzi do refleksji nad własnym losem i obawą, że nie będzie mógł umrzeć w swojej ojczyźnie.
+
+W **Mogiłach haremu**, Mirza, tatarski muzułmanin, rozmyśla nad przemijaniem, kontemplując mogiły zmarłych kobiet. To orientalne spojrzenie na przemijanie podkreśla różnice kulturowe i jednocześnie uniwersalność tematu.
+
+**Bajdary** przedstawia szybką jazdę przez krajobrazy, która staje się próbą zapomnienia o tęsknocie za domem. Jednak ten pęd i adrenalinę nagle zastępuje spokój brzegu morza, gdzie podmiot zatrzymuje się, by poczuć coś innego.
+
+W **Ałuszcie w dzień** i **Ałuszcie w nocy** podmiot ukazuje kontrast między dniem a nocą w tym samym miejscu. Noc przynosi spektakl świateł i nieoczekiwane zjawiska, takie jak przelot meteora, co zmienia perspektywę na miasto.
+
+**Czatyrdah** to hołd dla natury, z Mirzą modlącym się do góry, co podkreśla moc, brutalność i bezwzględność sił przyrody działających zgodnie z wolą Allaha.
+
+**Pielgrzym** stojący na szczycie góry nie może zapomnieć o swojej ojczyźnie, mimo piękna otaczającego go krajobrazu. Tęsknota i nadzieja na pamięć dziewczyny z dzieciństwa są dla niego połączeniem z daleką ojczyzną.
+
+**Droga nad przepaścią w Czufut-Kale** to podróż Mirzy i Pielgrzyma, gdzie Mirza jako pośrednik Allaha przekonuje, by zaufać Bogu i nie oglądać się w dół, co ma symboliczne znaczenie dotyczące wiary i przeznaczenia.
+
+Na **Górze Kikineis**, Mirza pokazuje Pielgrzymowi wspaniałe widoki, które są piękne, ale i przerażające. To miejsce do modlitwy i refleksji nad własnym losem.
+
+**Ruiny zamku w Bałakławie** są kolejnym symbolem przemijania, gdzie zamek, kiedyś symbol siły i obrony, teraz jest pochłonięty przez naturę.
+
+W końcu, siedząc na **Ajudah**, poeta dochodzi do pogodzenia się ze swoim losem wygnańca. Zachwyt nad pięknem krajobrazu pozwala mu zrozumieć, że jego doświadczenia kształtują go jako człowieka i poetę, a jego poezja staje się wartościowa dla przyszłych pokoleń.
 ### Pan Tadeusz
 
 ### Konrad Wallenrod

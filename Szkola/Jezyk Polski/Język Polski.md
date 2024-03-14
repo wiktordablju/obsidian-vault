@@ -13,4 +13,5 @@
 [[Renesans]]
 [[Barok]]
 [[Oświecenie]]
+[[Romantyzm]]
 [[Wojna i Okupacja]]
