@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c13e8a815c32b3e8",
+        "id": "bb1e59983faa021d",
         "type": "tabs",
         "children": [
           {
-            "id": "3605767324757b41",
+            "id": "b3fcd265a327f4ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Jezyk Polski/Romantyzm.md",
+                "file": "Szkola/Matura/Antyk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63fe87ffbd1232c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Szkola/Matura/Biblia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Jezyk Polski/Romantyzm.md",
+                "file": "Szkola/Matura/Biblia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Jezyk Polski/Romantyzm.md",
+                "file": "Szkola/Matura/Biblia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Jezyk Polski/Romantyzm.md"
+                "file": "Szkola/Matura/Biblia.md"
               }
             }
           },
@@ -166,10 +179,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3605767324757b41",
+  "active": "63fe87ffbd1232c3",
   "lastOpenFiles": [
-    "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Matura/Antyk.md",
+    "Szkola/Matura/Biblia.md",
+    "Szkola/Matura/Horacy.md",
+    "Szkola/Matura/Iliada.md",
+    "Szkola/Matura/Mitologia Grecka.md",
+    "Untitled.md",
+    "Szkola/Jezyk Polski/Antyk.md",
+    "Szkola/Untitled.md",
+    "Szkola/Matura",
     "Szkola/Jezyk Polski/Romantyzm.md",
+    "Szkola/Jezyk Polski/Język Polski.md",
     "Szkola/Jezyk Polski/Rozprawki.md",
     "Szkola/Jezyk Polski/Barok.md",
     "Szkola/Jezyk Polski/Oświecenie.md",
@@ -180,7 +202,6 @@
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Jezyk Polski/Renesans.md",
-    "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
     "Szkola/Matematyka/Analiza Matematyczna.md",
     "Szkola/Jezyk Polski/Poezja II WŚ i okupacji.md",
@@ -191,18 +212,10 @@
     "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
     "Szkola/Szkola.md",
     "Szkola/Jezyk Polski/Renesans.pdf",
-    "Szkola/Wiedza o Społeczeństwie/System strasburski.md",
-    "Szkola/Wiedza o Społeczeństwie/WOS.md",
-    "Untitled.md",
-    "Szkola/Jezyk Polski/Inny świat.md",
     "Szkola/Jezyk Polski/Inny świat.pdf",
-    "Szkola/Matematyka/Matematyka.md",
-    "Granica Ciągu i Szereg Geometryczny zbięzny i jego suma.md",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.md",
     "Szkola/Jezyk Polski/Antyk.pdf",
     "Frontend/JavaScript",
-    "Backend/Java",
-    "Szkola/Geografia"
+    "Backend/Java"
   ]
 }

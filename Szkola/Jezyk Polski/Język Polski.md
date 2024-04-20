@@ -8,7 +8,7 @@
 
 
 ### Epoki:
-[[Antyk]]
+[[Szkola/Jezyk Polski/Antyk]]
 [[Średniowiecze]]
 [[Renesans]]
 [[Barok]]

@@ -158,6 +158,8 @@ W końcu, siedząc na **Ajudah**, poeta dochodzi do pogodzenia się ze swoim los
 
 ### Konrad Wallenrod
 
+
+
 ### Kordian
 
 ### Balladyna
