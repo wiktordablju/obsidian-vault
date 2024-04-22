@@ -56,6 +56,6 @@ Antyk zdecydowanie ukierunkował zachodnią cywilizację na tory przez którą d
 **Lektury**
 - **Jan Parandowski - [[Mitologia Grecka]]**
 - **Homer - [[Iliada]]**
-- **Sofokles - Antygona**
+- **Sofokles - [[Antygona]]**
 - **[[Horacy]]**
 - **[[Biblia]]**
