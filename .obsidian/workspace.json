@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Matura/Antygona.md",
+                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Matura/Antygona.md",
+                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Matura/Antygona.md",
+                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Matura/Antygona.md"
+                "file": "Szkola/Matura/Średniowiecze - Lektury.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "f18b24e137ca4dd2",
   "lastOpenFiles": [
-    "Szkola/Matura/Antyk.md",
+    "Szkola/Matura/Średniowiecze.md",
+    "Szkola/Matura/Średniowiecze - Lektury.md",
     "Szkola/Matura/Antygona.md",
+    "Szkola/Matura/Antyk.md",
     "Szkola/Matura/Mitologia Grecka.md",
     "Szkola/Matura/Iliada.md",
     "Szkola/Matura/Horacy.md",
@@ -196,8 +198,6 @@
     "Szkola/Język Niemiecki/Pogoda - Słówka.md",
     "Szkola/Język Niemiecki/Język Niemiecki.md",
     "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
-    "Szkola/Jezyk Polski/Opowiadania Tadeusza Borowskiego.md",
-    "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
     "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
