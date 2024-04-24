@@ -10,7 +10,7 @@
 ### Epoki:
 [[Szkola/Jezyk Polski/Antyk]]
 [[Szkola/Jezyk Polski/Średniowiecze]]
-[[Renesans]]
+[[Szkola/Jezyk Polski/Renesans]]
 [[Barok]]
 [[Oświecenie]]
 [[Romantyzm]]

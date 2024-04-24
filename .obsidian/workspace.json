@@ -11,15 +11,26 @@
             "id": "f18b24e137ca4dd2",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Szkola/Jezyk Polski/Renesans.pdf"
+              }
+            }
+          },
+          {
+            "id": "261a7b066764e4f1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
+                "file": "Szkola/Matura/Renesans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
+                "file": "Szkola/Matura/Renesans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Matura/Średniowiecze - Lektury.md",
+                "file": "Szkola/Matura/Renesans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Matura/Średniowiecze - Lektury.md"
+                "file": "Szkola/Matura/Renesans.md"
               }
             }
           },
@@ -166,10 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f18b24e137ca4dd2",
+  "active": "261a7b066764e4f1",
   "lastOpenFiles": [
-    "Szkola/Matura/Średniowiecze.md",
+    "Szkola/Matura/Kazania Sejmowe.md",
+    "Szkola/Jezyk Polski/Renesans.pdf",
+    "Szkola/Matura/Odprawa posłów greckich.md",
+    "Pasted image 20240424130727.png",
+    "Szkola/Matura/Treny.md",
+    "Szkola/Matura/Renesans.md",
     "Szkola/Matura/Średniowiecze - Lektury.md",
+    "Szkola/Matura/Średniowiecze.md",
     "Szkola/Matura/Antygona.md",
     "Szkola/Matura/Antyk.md",
     "Szkola/Matura/Mitologia Grecka.md",
@@ -193,12 +210,6 @@
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Jezyk Polski/Renesans.md",
     "Szkola/Matematyka/Granica Ciągu i Szereg Geometryczny.md",
-    "Szkola/Matematyka/Analiza Matematyczna.md",
-    "Szkola/Jezyk Polski/Poezja II WŚ i okupacji.md",
-    "Szkola/Język Niemiecki/Pogoda - Słówka.md",
-    "Szkola/Język Niemiecki/Język Niemiecki.md",
-    "Szkola/Jezyk Polski/Od bierności do buntu - postawy człowieka wobec problemów rzeczywistości, w której żyje.md",
-    "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
     "Szkola/Jezyk Polski/Antyk.pdf",
