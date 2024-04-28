@@ -12,6 +12,6 @@
 [[Szkola/Jezyk Polski/Średniowiecze]]
 [[Szkola/Jezyk Polski/Renesans]]
 [[Szkola/Jezyk Polski/Barok]]
-[[Oświecenie]]
+[[Szkola/Jezyk Polski/Oświecenie]]
 [[Romantyzm]]
 [[Wojna i Okupacja]]
