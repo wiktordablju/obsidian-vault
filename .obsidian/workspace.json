@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Matura/Oświecenie.md",
+                "file": "Szkola/Matura/Romantyzm.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Matura/Oświecenie.md",
+                "file": "Szkola/Matura/Romantyzm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Matura/Oświecenie.md",
+                "file": "Szkola/Matura/Romantyzm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Matura/Oświecenie.md"
+                "file": "Szkola/Matura/Romantyzm.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "7b6130c59332123f",
   "lastOpenFiles": [
+    "Szkola/Matura/Oświecenie.md",
+    "Szkola/Matura/Romantyzm.md",
     "Szkola/Matura/Hymn do miłości ojczyzny.md",
     "Szkola/Matura/Krasicki.md",
-    "Szkola/Matura/Oświecenie.md",
     "Szkola/Matura/Barok.md",
     "Szkola/Matura/Skąpiec.md",
     "Szkola/Matura/Makbet.md",
@@ -196,7 +197,6 @@
     "Szkola/Jezyk Polski/Antyk.md",
     "Szkola/Untitled.md",
     "Szkola/Matura",
-    "Szkola/Jezyk Polski/Romantyzm.md",
     "Szkola/Jezyk Polski/Oświecenie.pdf",
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Barok.pdf",
