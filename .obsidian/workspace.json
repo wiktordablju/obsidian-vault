@@ -16,7 +16,9 @@
                 "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Analiza Matematyczna i Algebra Liniowa"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Analiza Matematyczna i Algebra Liniowa"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pochodne"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +84,9 @@
                 "file": "Szkola/Jezyk Polski/Oświecenie.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Oświecenie"
             }
           },
           {
@@ -91,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pochodne"
             }
           },
           {
@@ -142,7 +158,9 @@
                 "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pochodne"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,7 +183,9 @@
               "type": "outline",
               "state": {
                 "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pochodne"
             }
           },
           {
@@ -171,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]

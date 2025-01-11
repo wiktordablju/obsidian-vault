@@ -67,6 +67,6 @@ $y - f(a) = \frac{-1}{f'(a)}(x-a)$
 5. Wyznaczasz pochodną $( f'(x) )$ i wartość $( f'(x_0) )$.
 6. Liczysz przybliżenie różniczkowe:
 	$df(x_0) = f'(x_0) \cdot \Delta t$
-7. Ostateczne przybliżenie
+7. Ostateczne przybliżenie:
 	$\text{Przybliżenie} \approx f(x_0) - df(x_0)$
 
