@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "79cd8c73d797fdc0",
+        "id": "818e19164d164142",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6130c59332123f",
+            "id": "6bd7bcb3de68588c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szkola/Matura/Pozytywizm.md",
+                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61906914fcc62b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zdążyć",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szkola/Matura/Pozytywizm.md",
+                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szkola/Matura/Pozytywizm.md",
+                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szkola/Matura/Pozytywizm.md"
+                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md"
               }
             }
           },
@@ -166,44 +179,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6130c59332123f",
+  "active": "2756d09406163ece",
   "lastOpenFiles": [
-    "Szkola/Matura/Romantyzm.md",
-    "Szkola/Matura/Pozytywizm.md",
-    "Szkola/Matura/Oświecenie.md",
-    "Szkola/Matura/Hymn do miłości ojczyzny.md",
-    "Szkola/Matura/Krasicki.md",
-    "Szkola/Matura/Barok.md",
-    "Szkola/Matura/Skąpiec.md",
-    "Szkola/Matura/Makbet.md",
-    "Szkola/Matura/Pamiętniki.md",
-    "Szkola/Matura/Morsztyn.md",
-    "Szkola/Matura/Naborowski.md",
-    "Szkola/Matura/Szarzyński.md",
-    "Szkola/Jezyk Polski/Renesans.pdf",
-    "Szkola/Matura/Renesans.md",
-    "Szkola/Matura/Kazania Sejmowe.md",
-    "Szkola/Matura/Odprawa posłów greckich.md",
-    "Pasted image 20240424130727.png",
-    "Szkola/Matura/Treny.md",
-    "Szkola/Matura/Średniowiecze - Lektury.md",
-    "Szkola/Matura/Średniowiecze.md",
+    "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
+    "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
+    "Studia/Studia.md",
+    "Index.md",
+    "README.md",
+    "Studia/Analiza Matematyczna i Algebra Liniowa",
+    "Webdev/Webdev.md",
+    "Szkola/Jezyk Polski/Język Polski.md",
+    "Szkola/Jezyk Polski/Poezja II WŚ i okupacji.md",
+    "Szkola/Jezyk Polski/Zdążyć przed Panem Bogiem.md",
+    "Szkola/Wiedza o Społeczeństwie/WOS.md",
+    "Szkola/Szkola.md",
+    "Frontend/Frontend.md",
+    "Webdev/git.md",
+    "Webdev/User Experience User Interface.md",
+    "Webdev/Przeglądarki Internetowe.md",
+    "Backend/Python/Python.md",
+    "Backend/Java/Java.md",
+    "Backend/Backend.md",
+    "Szkola/Matura/Matura.md",
+    "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Matura/Antygona.md",
-    "Szkola/Matura/Antyk.md",
-    "Szkola/Matura/Mitologia Grecka.md",
-    "Szkola/Matura/Iliada.md",
-    "Szkola/Matura/Horacy.md",
-    "Szkola/Matura/Biblia.md",
-    "Untitled.md",
-    "Szkola/Jezyk Polski/Antyk.md",
+    "Studia",
+    "Backend/Python/Zmienne i proste typy danych.md",
+    "Backend/Python/Wprowadzenie do list.md",
+    "Backend/Python/Testowanie kodu.md",
+    "Backend/Python/Praca z listą.md",
+    "Backend/Python/Pliki i wyjątki.md",
+    "Pasted image 20240424130727.png",
+    "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Matura",
     "Szkola/Jezyk Polski/Oświecenie.pdf",
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Inny świat.pdf",
     "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
-    "Szkola/Jezyk Polski/Antyk.pdf",
-    "Frontend/JavaScript",
-    "Backend/Java"
+    "Szkola/Jezyk Polski/Antyk.pdf"
   ]
 }

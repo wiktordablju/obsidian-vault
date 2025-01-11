@@ -8,100 +8,100 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Frontend/HTML",
+      "query": "path:Backend/Java ",
       "color": {
         "a": 1,
-        "rgb": 15819816
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:Frontend/CSS",
+      "query": "path:Backend/Python  ",
       "color": {
         "a": 1,
-        "rgb": 2712816
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:\"Szkola/Jezyk Polski\"  ",
+      "query": "path:Webdev  ",
       "color": {
         "a": 1,
-        "rgb": 13254463
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:\"Szkola/Język Angielski\"  ",
+      "query": "path:Frontend/CSS  ",
       "color": {
         "a": 1,
-        "rgb": 5408992
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"Szkola/Wiedza o Społeczeństwie\"  ",
+      "query": "path:Frontend/HTML  ",
       "color": {
         "a": 1,
-        "rgb": 4053824
-      }
-    },
-    {
-      "query": "path:Szkola/Matematyka  ",
-      "color": {
-        "a": 1,
-        "rgb": 2236448
-      }
-    },
-    {
-      "query": "path:Szkola/Historia  ",
-      "color": {
-        "a": 1,
-        "rgb": 7290661
-      }
-    },
-    {
-      "query": "path:\"Szkola/Język Niemiecki\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15060276
-      }
-    },
-    {
-      "query": "path:Szkola/Geografia  ",
-      "color": {
-        "a": 1,
-        "rgb": 12470751
-      }
-    },
-    {
-      "query": "path:Ogolny  ",
-      "color": {
-        "a": 1,
-        "rgb": 6173655
+        "rgb": 6084269
       }
     },
     {
       "query": "path:Frontend/JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 16178718
+        "rgb": 6073814
       }
     },
     {
-      "query": "path:Backend/Java  ",
+      "query": "path:\"Szkola/Język Niemiecki\"  ",
       "color": {
         "a": 1,
-        "rgb": 15540517
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"Szkola/Jezyk Polski\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Szkola/Matematyka  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:Szkola/Matura  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Szkola/Wiedza o Społeczeństwie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Studia/Analiza Matematyczna i Algebra Liniowa\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.171875,
-  "lineSizeMultiplier": 1.58020833333333,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.82400123494906,
+  "lineSizeMultiplier": 1.9979746835443,
   "collapse-forces": true,
-  "centerStrength": 0.498107606679035,
-  "repelStrength": 15.3751391465677,
+  "centerStrength": 0.502006792219821,
+  "repelStrength": 16.2050015436863,
   "linkStrength": 1,
-  "linkDistance": 333,
-  "scale": 0.5087618855792646,
+  "linkDistance": 301,
+  "scale": 0.2588386562181688,
   "close": false
 }

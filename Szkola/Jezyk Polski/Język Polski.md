@@ -3,7 +3,7 @@
 [[Opowiadania Tadeusza Borowskiego]]
 [[Inny świat]]
 [[Dżuma]]
-
+[[Zdążyć przed Panem Bogiem]]
 ### [[Rozprawki]]
 
 
@@ -15,3 +15,4 @@
 [[Szkola/Jezyk Polski/Oświecenie]]
 [[Szkola/Jezyk Polski/Romantyzm]]
 [[Wojna i Okupacja]]
+[[Poezja II WŚ i okupacji]]
