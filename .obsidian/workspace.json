@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "818e19164d164142",
+        "id": "df6d8c8b9fb742a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6bd7bcb3de68588c",
+            "id": "9c368decda4248a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
+                "file": "Studia/Arytmetyka Systemów Cyfrowych/Operacje zmiennoprzecinkowe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analiza Matematyczna i Algebra Liniowa"
-            }
-          },
-          {
-            "id": "61906914fcc62b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analiza Matematyczna i Algebra Liniowa"
-            }
-          },
-          {
-            "id": "4117e6ef48e766a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pochodne"
+              "title": "Operacje zmiennoprzecinkowe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +186,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4117e6ef48e766a8",
+  "active": "9c368decda4248a1",
   "lastOpenFiles": [
     "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
-    "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
+    "Studia/Arytmetyka Systemów Cyfrowych/Arytmetyka Systemów Cyfrowych.md",
+    "Studia/Arytmetyka Systemów Cyfrowych/Operacje zmiennoprzecinkowe.md",
     "Studia/Studia.md",
+    "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
+    "Studia/Arytmetyka Systemów Cyfrowych",
     "Index.md",
     "README.md",
     "Studia/Analiza Matematyczna i Algebra Liniowa",
@@ -243,8 +217,6 @@
     "Backend/Python/Zmienne i proste typy danych.md",
     "Backend/Python/Wprowadzenie do list.md",
     "Backend/Python/Testowanie kodu.md",
-    "Backend/Python/Praca z listą.md",
-    "Backend/Python/Pliki i wyjątki.md",
     "Pasted image 20240424130727.png",
     "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Matura",
@@ -252,7 +224,6 @@
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Barok.pdf",
     "Szkola/Jezyk Polski/Inny świat.pdf",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.pdf",
-    "Szkola/Jezyk Polski/Antyk.pdf"
+    "Szkola/Wiedza o Społeczeństwie/Prawo.pdf"
   ]
 }

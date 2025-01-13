@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:\"Studia/Arytmetyka Systemów Cyfrowych\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 16.2050015436863,
   "linkStrength": 1,
   "linkDistance": 301,
-  "scale": 0.2588386562181688,
+  "scale": 0.1846232622585861,
   "close": false
 }
