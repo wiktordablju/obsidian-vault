@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df6d8c8b9fb742a5",
+        "id": "51af00d064ebd029",
         "type": "tabs",
         "children": [
           {
-            "id": "9c368decda4248a1",
+            "id": "570f491dc6e6a770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Arytmetyka Systemów Cyfrowych/Operacje zmiennoprzecinkowe.md",
+                "file": "Studia/Podstawy Informatyki/Złożoność algorytmów.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operacje zmiennoprzecinkowe"
+              "title": "Złożoność algorytmów"
             }
           }
         ]
@@ -186,12 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c368decda4248a1",
+  "active": "570f491dc6e6a770",
   "lastOpenFiles": [
-    "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
-    "Studia/Arytmetyka Systemów Cyfrowych/Arytmetyka Systemów Cyfrowych.md",
-    "Studia/Arytmetyka Systemów Cyfrowych/Operacje zmiennoprzecinkowe.md",
+    "Studia/Podstawy Informatyki/Podstawy Informatyki.md",
+    "Studia/Podstawy Informatyki/Złożoność algorytmów.md",
+    "Studia/Podstawy Informatyki/Rekurencja dodatkowe.md",
     "Studia/Studia.md",
+    "Studia/Arytmetyka Systemów Cyfrowych/Operacje zmiennoprzecinkowe.md",
+    "Studia/Podstawy Informatyki",
+    "Studia/Arytmetyka Systemów Cyfrowych/Arytmetyka Systemów Cyfrowych.md",
+    "Studia/Analiza Matematyczna i Algebra Liniowa/Analiza Matematyczna i Algebra Liniowa.md",
     "Studia/Analiza Matematyczna i Algebra Liniowa/Pochodne.md",
     "Studia/Arytmetyka Systemów Cyfrowych",
     "Index.md",
@@ -214,16 +218,12 @@
     "Szkola/Jezyk Polski/Średniowiecze.md",
     "Szkola/Matura/Antygona.md",
     "Studia",
-    "Backend/Python/Zmienne i proste typy danych.md",
-    "Backend/Python/Wprowadzenie do list.md",
-    "Backend/Python/Testowanie kodu.md",
     "Pasted image 20240424130727.png",
     "Szkola/Jezyk Polski/Renesans.pdf",
     "Szkola/Matura",
     "Szkola/Jezyk Polski/Oświecenie.pdf",
     "Szkola/Jezyk Polski/Wojna i Okupacja.pdf",
     "Szkola/Jezyk Polski/Barok.pdf",
-    "Szkola/Jezyk Polski/Inny świat.pdf",
-    "Szkola/Wiedza o Społeczeństwie/Prawo.pdf"
+    "Szkola/Jezyk Polski/Inny świat.pdf"
   ]
 }
