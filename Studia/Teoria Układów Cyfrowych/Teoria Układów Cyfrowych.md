@@ -1,0 +1,5 @@
+[[Algebra]]
+[[Hazard]]
+[[Iteracyjne]]
+[[Komutatory]]
+[[Translatory]]
