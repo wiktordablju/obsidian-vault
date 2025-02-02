@@ -3,4 +3,4 @@
 [[Metryki]]
 [[Granice]]
 
-[[Pochodne]]
+[[Pochodne Kolokwium]]

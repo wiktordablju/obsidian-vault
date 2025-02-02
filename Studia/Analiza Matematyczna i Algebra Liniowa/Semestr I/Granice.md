@@ -195,7 +195,7 @@ Jeśli $f: [a, b] \to \mathbb{R}$ jest ciągła, to dla każdej liczby $d$ zawar
 Jeśli $f: [a, b] \to \mathbb{R}$ jest ciągła i $f(a) \cdot f(b) < 0$, to istnieje $c \in (a, b)$ takie, że $f(c) = 0$.  
 
 ### Twierdzenie Weierstrassa  
-Jeśli \( f: [a, b] \to \mathbb{R} \) jest ciągła, to osiąga swoje kresy, czyli jest ograniczona i przyjmuje wartości największą i najmniejszą.  
+Jeśli $f: [a, b] \to \mathbb{R}$ jest ciągła, to osiąga swoje kresy, czyli jest ograniczona i przyjmuje wartości największą i najmniejszą.  
 
 ## Oscylacja funkcji  
 Oscylacja funkcji \( f \) w przedziale $[a, b]$ to różnica między największą i najmniejszą wartością funkcji:

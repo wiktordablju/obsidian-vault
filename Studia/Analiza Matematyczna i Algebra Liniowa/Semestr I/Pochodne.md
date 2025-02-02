@@ -1,72 +1,71 @@
 
-[Tablice pochodnych i całek](https://platforma.polsl.pl/rms/pluginfile.php/195961/mod_resource/content/1/der_int.pdf)
+Pochodna i różniczka
+Pochodna funkcji f w punkcie a nazywamy liczbe
+f'(a) = limdeltax->0  f(a+deltax) - f(a)/deltax
+Jesli powyzsza granica istnieje i jest skonczona, jesli istnieje f'(a) to mowimy ze f jest rozniczkowalna w pkt a
 
----
+Jesli f jest rozniczkowalna w a, to:
+f'(a) = wspolczynnik kierunkowy stycznej do krzywej y =f(x) w pkt (a, f(a))
+styczna do rkzywej y = f(x) w punkc ie (a, f(a)) ma rownanie y - f(a) = f'(a)(x-a)
+normalna do krzywej y =f(x) w pkt (a, f(a)) 
 
-## 1. Zbadać monotoniczność i znaleźć ekstrema funkcji
+Jesli f jest rozniczkowalna w a, to f jest ciagla w a, Ciaglosc nie jest wystarczajaca dla rozniczkowalnosci
+Funkcja rozniczkowalne sa gladkie
 
-1. **Wyznaczyć dziedzinę**
-2. **Obliczyć pochodną**
-3. **Wyznaczyć dziedzinę pochodnej** (musi zawierać się w dziedzinie oryginalnej funkcji)
-4. **Rozwiązać nierówność dla pochodnej** (najczęściej $( f'(x) > 0 )$ lub $( f'(x) < 0 )$)
-5. **Tabelka**:
-   - $( f'(x) < 0 )$: funkcja maleje
-   - $( f'(x) > 0 )$: funkcja rośnie
-   - Punkt, w którym $( f'(x) = 0 )$: lokalne minimum/maksimum
-6. **Odpowiedź**
+Jesli dla kazdego x nalezacego do Df' bedacego podzbiorem Df istnieje liczba f'(x) to mozemy zdefiniowac pochodna
 
----
-## 2. Równanie stycznej i normalnej
+Jesli f i ga sa rozniczkowalne, c jest stala rzeczywista to
+(cf)' = cf'
+(f+g)' = f' + g'
+(fg)' = f'g + fg'
+(f/g)' = f'g -fg' ./ g^2, g=/= 0
 
-### Równanie stycznej:
-$f'(a)(x-a) = y - f(a)$
+Twierdzenie o pochodnej funkcji odwrotnej
 
-### Równanie normalnej:
-$y - f(a) = \frac{-1}{f'(a)}(x-a)$
+Jesli funkcja y = f(x) jest ciagla i scisle monotoniczna w pewnym przedziale oraz istnieje taki punkt x0 nalezacy do tego przedzialu ze f'(x0) =/= 0 to istnieje pochodna funkcji odwrotne x w punkcie y0=f(x0) i jest ona rowna 1/f'(x0)
 
-**Przypadki:**
+Twierdzenie o pochodnej funkcji zlozonej
+(g kolko f)'(x0) = g'(f(x0))f'(x0)
 
-- **Podana funkcja i odcięta**: Wyznaczasz pochodną, wartość funkcji i pochodnej w punkcie, a następnie podstawiasz pod równania.
-- **Podana funkcja i punkt**: Jeśli dany punkt to np. $( (x, y) = (2, 3) )$, to liczysz $( f(2) = 3 )$, pochodną, i podstawiasz do równań.
+Zastosowanie pochodnej
 
-### Styczna i normalna do podanej krzywej w punkcie odpowiadającym $( t_0 )$:
-1. Wyznaczasz współczynnik kierunkowy stycznej:
-	$a = f'(x_0) = \frac{y'(t_0)}{x'(t_0)}$
-2. Wyznaczasz współczynnik normalnej:
-	$a_n = -\frac{1}{a} = -\frac{1}{f'(x_0)}$
-3. Równanie stycznej:
-	$y = a \cdot x + b$
-4. Liczysz pochodne \( x \) i \( y \), następnie podstawiasz $( t_0 )$, aby znaleźć $( x_0 )$ i $( y_0)$.
+Twierdzenie Fermata
+Jesli f jest zdefiniowana w (a,b) osiaga globalne minimum lub maksimum w c, i jest rozniczkowalne w c, to f'(c) = 0
 
-### Równanie prostej przechodzącej przez punkt \( A \) i stycznej do krzywej:
-1. Liczysz pochodną $( f'(x) )$.
-2. Wyznaczasz wartość pochodnej i funkcji w $( x_0)$ (mimo że na początku $( x_0)$ nie jest znane).
-3. Układasz równanie stycznej i wyznaczasz $( x_0)$.
-4. Podstawiasz $( x_0)$ do \( f'(x) \) i \( f(x) \), aby uzyskać równanie stycznej.
+Twierdzenie Rolle'a
+Jesli funkcja f jest ciagla w <a,b>, rozniczkowalna w (a,b) i f(a) = f(b), to istnieje taki punkt c ze f'(c) = 0
 
-### Znaleźć punkt styczności, jeśli styczna do krzywej \( C \) jest:
+Twierdzenie Lagrange'a
+Jesli funkcja f jest ciagla w <a,b> i rozniczkowalna w (a,b) to istnieje taki punkt c, ze 
+f'(c) = f(b) - f(a) / b-a
 
-- **Prostopadła do prostej \( l \)**:
-	$f'(x_0) \cdot m = -1$
-- **Równoległa do prostej \( l \)**:
-	$f'(x_0) = m$
+Twierdzenie Cauchy'ego
+Jesli funkcje f i g sa ciagle w <a,b> i rozniczkowalne w (a,b) i g'(x) =/= 0, dla kazdego a nalezacego do (a,b) to istnieje taki punkt c ze f'(c) / g'(c)  = f(b) - f(a)  / g(b) - g(a)
 
-1. Liczysz \( a \), $( f'(x_0) )$, pochodne \( y \) i \( x \).
-2. Wyznaczasz $( f'(x_0) )$ z wzoru $( \frac{y'}{x'})$.
-3. Podstawiasz $( t_0 )$  do  $( x_0 )$ i  $( y_0 )$, aby znaleźć punkt styczności.
+Te trzy twierdzenia to twierdzenia o wartosci sredniej ktore z siebie wynikaja
 
----
+Funkcja f ma minimum lokalne w punkcie a wtedy i tylko wtedy gdy istnieje delta>0 dla kazdego xnalezacego do (a-delta, a)u(a, a+delta) f(x) > f(a)
+wowczas f(a) to minimum lokalnym funkcji f
+naturalnie w f(x) < f(a) to maksimum lokalne
 
-## 3. Wartość przybliżona z różniczki
+Jesli f ma ekstremum w punkcie a, to f'(a) = 0 lub f'(a) nie istnieje
 
-1. Wyznaczasz funkcję \( f(x) \).
-2. Wyznaczasz punkt $( x_0 )$.
-3. Wyznaczasz $( \Delta t )$ w zależności od $( x_0 )$.
-   - Przykład: Jeśli masz $( \frac{9.003}{10.003} )$, to funkcja to $( f(x) = \frac{x}{x+1} )$, $( x_0 = 9 )$, a $( \Delta t = 0.003 )$.
-4. Liczysz $( f(x_0) )$
-5. Wyznaczasz pochodną $( f'(x) )$ i wartość $( f'(x_0) )$.
-6. Liczysz przybliżenie różniczkowe:
-	$df(x_0) = f'(x_0) \cdot \Delta t$
-7. Ostateczne przybliżenie:
-	$\text{Przybliżenie} \approx f(x_0) + df(x_0)$
+Jezeli funkcja f jest ciagla w punkcie krytycznym a i f' zmienia znak przy przejsciu przez a, to f(a) jest ekstremum lokalnym
 
+Funkcja wypukla w przedziale I nazywamy kazda funkcje ciagla w tym przedziale ktora spelnia warunek
+Dla kazdego x1,x2naelzacego do I, x1=/=x2 dla kazdej lambdy nalezacej do (0,1) f(lambdax1 + (1-lambda)x2) < lambdaf(x1) + (1-lambda)f(x2)
+
+Jezeli f jest wypukla w I, to funkcja -f jest wklesla w I
+
+Asymptoty poziome, pinonowe, lewo/prawostronne !!!
+
+
+Regula de L'Hospitala
+jezeli f i g sa ciagle w <a,b>
+f i g sa rowniez w tym przedziale rozniczkowalne oraz g(x) ani jego pochodna nie jest 0 oraz granice f jak i g sa rowne 0 oraz jesli istnieje granica pochodnej f podzielonej przez pochodna g
+to
+limx->a+ f(x)/g(x) = limx->a+ f'(x)/g'(x)
+
+Wzor Taylora !!!
+
+Wzor Maclaurina !!!
